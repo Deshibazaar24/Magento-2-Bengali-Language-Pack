@@ -1,5 +1,5 @@
 All,সব,module,Magento_AdminGws
 None,না,module,Magento_AdminGws
 "Allowed Scopes","মঞ্জুরিপ্রাপ্ত সুযোগগুলি",module,Magento_AdminGws
-"You need more permissions to delete this item(s): %1.","% 1: আপনি আরও অনুমতির এই আইটেম (গুলি) মোছার প্রয়োজন হবে।",module,Magento_AdminGws
+"You need more permissions to delete this item(s): %1.","আপনি আরও অনুমতির এই আইটেম (গুলি) মোছার প্রয়োজন হবে।:1%",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","আপনি আরও অনুমতির প্রয়োজন নিয়ম আপডেটের কিছু প্রযোজ্য হবে।",module,Magento_AdminGws
