@@ -1,0 +1,1128 @@
+All,সব,module,Magento_AdminGws
+None,না,module,Magento_AdminGws
+Allowed Scopes,মঞ্জুরিপ্রাপ্ত সুযোগগুলি,module,Magento_AdminGws
+You need more permissions to delete this item(s): %1.,% 1: আপনি আরও অনুমতির এই আইটেম (গুলি) মোছার প্রয়োজন হবে।,module,Magento_AdminGws
+You need more permissions to apply some of the rule updates.,আপনি আরও অনুমতির প্রয়োজন নিয়ম আপডেটের কিছু প্রযোজ্য হবে।,module,Magento_AdminGws
+Please assign this entity to a store view.,একটি দোকান দেখতে এই সত্তা ধার্য করুন।,module,Magento_AdminGws
+You can create orders only in an active store.,আপনি শুধুমাত্র একটি সক্রিয় দোকান আদেশ তৈরি করতে পারেন।,module,Magento_AdminGws
+Please assign this item to a store view.,একটি দোকান দৃশ্যে এই আইটেমটি ধার্য করুন।,module,Magento_AdminGws
+You need more permissions to save this item.,আপনি আরও অনুমতির প্রয়োজন এই আইটেমটি সংরক্ষণ করুন।,module,Magento_AdminGws
+You need more permissions to delete this item.,আপনি আরও অনুমতির প্রয়োজন এই আইটেমটি মুছে ফেলতে।,module,Magento_AdminGws
+You need more permissions to view this item.,আপনি এই আইটেমটি দেখতে আরও অনুমতির প্রয়োজন।,module,Magento_AdminGws
+Please specify at least one website or one store group.,অন্তত একটি ওয়েবসাইট বা একটি দোকান গ্রুপ উল্লেখ করুন।,module,Magento_AdminGws
+You need more permissions to set All Scopes to a Role.,আপনি একটি ভূমিকা সব সুযোগগুলি সেট করতে আরও অনুমতির প্রয়োজন।,module,Magento_AdminGws
+Incorrect website ID: %1,ভুল ওয়েবসাইট আইডি:% 1,module,Magento_AdminGws
+"You need more permissions to access website ""%1"".","আপনি অ্যাক্সেস ওয়েবসাইট ""% 1"" থেকে আরও অনুমতির প্রয়োজন।",module,Magento_AdminGws
+Incorrect store ID: %1,ভুল দোকান আইডি:% 1,module,Magento_AdminGws
+You need more permissions to save this setting.,আপনি আরও অনুমতির প্রয়োজন হলে এই নির্বাচন সংরক্ষণ করুন।,module,Magento_AdminGws
+Role Scopes,ভূমিকা সুযোগগুলি,module,Magento_AdminGws
+Custom,প্রথা,module,Magento_AdminGws
+Read Details,পড়ুন বিস্তারিত,module,Magento_AdminNotification
+Mark as Read,পঠিত হিসেবে চিহ্নিত করুন,module,Magento_AdminNotification
+Are you sure?,তুমি কি নিশ্চিত?,module,Magento_AdminNotification
+Remove,অপসারণ,module,Magento_AdminNotification
+Messages Inbox,বার্তাগুলি ইনবক্স,module,Magento_AdminNotification
+You have %1 new system messages,আপনি% 1 টি নতুন সিস্টেম বার্তা আছে,module,Magento_AdminNotification
+You have %1 new system message,আপনি% 1 টি নতুন সিস্টেম বার্তা আছে,module,Magento_AdminNotification
+Incoming Message,ইনকামিং বার্তা,module,Magento_AdminNotification
+close,ঘনিষ্ঠ,module,Magento_AdminNotification
+Notifications,বিজ্ঞপ্তিগুলি,module,Magento_AdminNotification
+The message has been marked as Read.,বার্তা পঠিত হিসাবে চিহ্নিত করা হয়েছে।,module,Magento_AdminNotification
+We couldn't mark the notification as Read because of an error.,আমরা পঠিত হিসাবে একটি ত্রুটির কারণে প্রজ্ঞাপন চিহ্নিত করতে পারেনি।,module,Magento_AdminNotification
+Please select messages.,বার্তা নির্বাচন করুন।,module,Magento_AdminNotification
+A total of %1 record(s) have been marked as Read.,% 1 রেকর্ড (গুলি) মোট পঠিত হিসাবে চিহ্নিত করা হয়েছে।,module,Magento_AdminNotification
+Total of %1 record(s) have been removed.,% 1 রেকর্ড (গুলি) মোট সরানো হয়েছে।,module,Magento_AdminNotification
+We couldn't remove the messages because of an error.,আমরা একটি ত্রুটির কারণে বার্তা সরাতে পারিনি।,module,Magento_AdminNotification
+The message has been removed.,বার্তা সরানো হয়েছে।,module,Magento_AdminNotification
+1 Hour,1 ঘন্টা,module,Magento_AdminNotification
+2 Hours,২ ঘন্টা,module,Magento_AdminNotification
+6 Hours,6 ঘন্টা,module,Magento_AdminNotification
+12 Hours,1 ২ ঘণ্টা,module,Magento_AdminNotification
+24 Hours,২ 4 ঘন্টা,module,Magento_AdminNotification
+critical,সংকটপূর্ণ,module,Magento_AdminNotification
+major,মুখ্য,module,Magento_AdminNotification
+minor,গৌণ,module,Magento_AdminNotification
+notice,বিজ্ঞপ্তি,module,Magento_AdminNotification
+Wrong message type,ভুল বার্তা টাইপ,module,Magento_AdminNotification
+Wrong notification ID specified.,ভুল প্রজ্ঞাপন আইডি নির্দিষ্ট করা হয়েছে।,module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{Base_url}} একটি পরীক্ষামূলক পরিবেশে ব্যবহার করার জন্য বেজ অনিরাপদ URL- / বেজ নিরাপদ URL ঘোষণা করার সুপারিশ করা হয়। আমরা অত্যন্ত আপনার Magento মধ্যে এই মান পরিবর্তন সুপারিশ <a href=""%1""> কনফিগারেশন </a>।",module,Magento_AdminNotification
+One or more of the Cache Types are invalidated: %1.,এক বা একাধিক ক্যাশে প্রকারভেদ এর invalidated করা হয়:% 1।,module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","দয়া করে ক্যাশে ম্যানেজমেন্ট </a> href=""%1""> <a এবং ক্যাশ ধরনের রিফ্রেশ যান।",module,Magento_AdminNotification
+We were unable to synchronize one or more media files. Please refer to the log file for details.,আমরা এক বা একাধিক মিডিয়া ফাইল সুসংগত করতে পারিনি। বিস্তারিত জানার জন্য লগ ফাইল পড়ুন দয়া করে।,module,Magento_AdminNotification
+Synchronization of media storages has been completed.,মিডিয়া স্টোরেজ সিঙ্ক্রোনাইজেশন সম্পন্ন হয়েছে।,module,Magento_AdminNotification
+Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.,আপনার ওয়েব সার্ভারে ভুল সেট আপ করুন এবং সংবেদনশীল ফাইল অননুমোদিত অ্যাক্সেস দেয় হয়। আপনার হোস্টিং প্রদানকারীর সাথে যোগাযোগ করুন।,module,Magento_AdminNotification
+System Messages:,সিস্টেম বার্তা:,module,Magento_AdminNotification
+Critical System Messages,ক্রিটিক্যাল সিস্টেম বার্তা,module,Magento_AdminNotification
+Major System Messages,মেজর সিস্টেম বার্তা,module,Magento_AdminNotification
+System messages,সিস্টেম বার্তা,module,Magento_AdminNotification
+Close,ঘনিষ্ঠ,module,Magento_AdminNotification
+See All (,সবগুলো দেখ (,module,Magento_AdminNotification
+unread),অপঠিত),module,Magento_AdminNotification
+Show Toolbar,সরঞ্জামদণ্ড দেখান,module,Magento_AdminNotification
+Show List,তালিকা দেখান,module,Magento_AdminNotification
+Use HTTPS to Get Feed,HTTPS ব্যবহার করুন ফিড পান করতে,module,Magento_AdminNotification
+Update Frequency,আপডেট ফ্রিকোয়েন্সি,module,Magento_AdminNotification
+Last Update,সর্বশেষ আপডেট,module,Magento_AdminNotification
+Severity,নির্দয়তা,module,Magento_AdminNotification
+Date Added,তারিখ যোগ করা হয়েছে,module,Magento_AdminNotification
+Message,বার্তা,module,Magento_AdminNotification
+Actions,ক্রিয়াকলাপ,module,Magento_AdminNotification
+Manage Shopping Cart,শপিং কার্ট পরিচালনা,module,Magento_AdvancedCheckout
+Create Order,অর্ডার তৈরি,module,Magento_AdvancedCheckout
+Back,পিছনে,module,Magento_AdvancedCheckout
+Add Products,পণ্য যোগ করুন,module,Magento_AdvancedCheckout
+Update Items and Quantities,আইটেম এবং পরিমাণে আপডেট,module,Magento_AdvancedCheckout
+Are you sure you want to clear your cart?,আপনি আপনার কার্ট সাফ করার বিষয়ে আপনি কি নিশ্চিত?,module,Magento_AdvancedCheckout
+Clear my shopping cart,আমার শপিং কার্ট সাফ,module,Magento_AdvancedCheckout
+Add selections to my cart,আমার ট্রলি পছন্দসই মান নির্বাচন করে যোগ,module,Magento_AdvancedCheckout
+Cancel,বাতিল,module,Magento_AdvancedCheckout
+Shopping Cart for %1 in %2,কেনাকাটা% 2% 1 জন্য কার্ট,module,Magento_AdvancedCheckout
+Select products you want to buy,পণ্য নির্বাচন করুন আপনি কিনতে চান,module,Magento_AdvancedCheckout
+Product,প্রোডাক্ট,module,Magento_AdvancedCheckout
+Price,মূল্য,module,Magento_AdvancedCheckout
+Quantity,পরিমাণ,module,Magento_AdvancedCheckout
+Products in the Comparison List (%1),তুলনা তালিকা পণ্য (% 1),module,Magento_AdvancedCheckout
+Last ordered items (%1),সর্বশেষ আদেশ আইটেম (% 1),module,Magento_AdvancedCheckout
+Products,পণ্য,module,Magento_AdvancedCheckout
+ID,আইডি,module,Magento_AdvancedCheckout
+SKU,করা SKU,module,Magento_AdvancedCheckout
+Recently Compared Products (%1),সম্প্রতি তুলনায় পণ্য (% 1),module,Magento_AdvancedCheckout
+Recently Viewed Products (%1),সম্প্রতি দেখেছেন এমন পণ্য (% 1),module,Magento_AdvancedCheckout
+Add to Shopping Cart by SKU,করা SKU দ্বারা শপিং কার্ট যোগ করুন,module,Magento_AdvancedCheckout
+Add to Shopping Cart,শপিং কার্ট যোগ করুন,module,Magento_AdvancedCheckout
+Wish List (%1),ইচ্ছা তালিকা (% 1),module,Magento_AdvancedCheckout
+Apply,প্রয়োগ করা,module,Magento_AdvancedCheckout
+Configure,কনফিগার করুন,module,Magento_AdvancedCheckout
+Add to Order by SKU,করা SKU করে অর্ডার যোগ করুন,module,Magento_AdvancedCheckout
+Add to Order,ক্রমে যুক্ত,module,Magento_AdvancedCheckout
+Add Products to Order,পণ্য ক্রমে যুক্ত,module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<বিঘত> <বিঘত আইডি = ""SKU-মনোযোগ-NUM"">% 1 </ span> এ পণ্য (গুলি) মনোযোগের প্রয়োজন। </ Span> এ",module,Magento_AdvancedCheckout
+Remove All,সব মুছে ফেলুন,module,Magento_AdvancedCheckout
+Only %1%2%3 left in stock,শুধু% 1% 2% 3 স্টক মধ্যে বাম,module,Magento_AdvancedCheckout
+You can buy up to %1 of these per purchase.,আপনি ক্রয় প্রতি এগুলোর% 1 পর্যন্ত কিনতে পারেন।,module,Magento_AdvancedCheckout
+You must buy at least %1 of these per purchase.,আপনি ক্রয় প্রতি কমপক্ষে% এগুলোর 1 কিনতে হবে।,module,Magento_AdvancedCheckout
+Specify the product's options.,পণ্যের অপশন উল্লেখ করুন।,module,Magento_AdvancedCheckout
+Alert me when this item is available.,আমাকে সতর্ক করো যখন এই আইটেমটি পাওয়া যায়।,module,Magento_AdvancedCheckout
+We can't find this customer.,আমরা এই গ্রাহকের খুঁজে পাচ্ছি না।,module,Magento_AdvancedCheckout
+Shopping cart management is disabled for this customer.,শপিং কার্ট ব্যবস্থাপনা এই গ্রাহকের জন্য নিষ্ক্রিয় করা হয়েছে।,module,Magento_AdvancedCheckout
+We can't find this store.,আমরা এই দোকান খুঁজে পাচ্ছি না।,module,Magento_AdvancedCheckout
+Customers,গ্রাহকরা,module,Magento_AdvancedCheckout
+Shopping Cart,বাজারের ব্যাগ,module,Magento_AdvancedCheckout
+"Sorry, something went wrong. You can find out more in the error log.","দুঃখিত, কিছু ভুল হয়েছে। আপনি ত্রুটি লগ আরও বিস্তারিত জানতে পারেন।",module,Magento_AdvancedCheckout
+You do not have access to this.,আপনি এই অ্যাক্সেস নেই।,module,Magento_AdvancedCheckout
+Ordered item id is not received.,আইটেমের আইডি পেয়েছি করা হয় না।,module,Magento_AdvancedCheckout
+Ordered item is not loaded.,আইটেমের লোড হয় না।,module,Magento_AdvancedCheckout
+Quote item id is not received.,উক্তি আইটেম ID পেয়েছি করা হয় না।,module,Magento_AdvancedCheckout
+Quote item is not loaded.,উক্তি আইটেমটি লোড হয় না।,module,Magento_AdvancedCheckout
+The wish list item id is not received.,অভিলাষও অবশিষ্ট তালিকা আইটেম ID পেয়েছি করা হয় না।,module,Magento_AdvancedCheckout
+The wish list item is not loaded.,অভিলাষও অবশিষ্ট তালিকা আইটেম লোড হয় না।,module,Magento_AdvancedCheckout
+An error has occurred. See error log for details.,একটি ত্রুটি উৎপন্ন হয়েছে. বিস্তারিত জানার জন্য ত্রুটি লগ দেখুন।,module,Magento_AdvancedCheckout
+You cannot configure a product.,আপনি একটি পণ্য কনফিগার করতে পারবে না।,module,Magento_AdvancedCheckout
+You removed the items.,আপনি আইটেম সরানো হয়েছে।,module,Magento_AdvancedCheckout
+You removed the item.,আপনি আইটেম সরানো হয়েছে।,module,Magento_AdvancedCheckout
+You added %1 to your shopping cart.,তুমি তোমার শপিং কার্ট% 1 এখনো যোগ করেনি।,module,Magento_AdvancedCheckout
+You cannot add a product.,আপনি একটি পণ্য জুড়তে পারবেন না।,module,Magento_AdvancedCheckout
+Order by SKU,করা SKU দ্বারা ব,module,Magento_AdvancedCheckout
+The SKU was not found in the catalog.,করা SKU ক্যাটালগে পাওয়া যায়নি।,module,Magento_AdvancedCheckout
+Availability: Out of stock.,প্রাপ্যতা: মজুদ নেই.,module,Magento_AdvancedCheckout
+We don't have as many of these as you want.,আমরা এই হিসাবে অনেক হিসাবে আপনি চান না।,module,Magento_AdvancedCheckout
+You can't add this many to your cart.,তুমি তোমার কার্ট এই অনেক জুড়তে পারবেন না।,module,Magento_AdvancedCheckout
+You need to choose options for your item.,আপনি আপনার আইটেমটির জন্য বিকল্পগুলি চয়ন করতে হবে।,module,Magento_AdvancedCheckout
+We can't add the item to your cart.,আমরা আপনার কার্ট আইটেম জুড়তে পারবেন না।,module,Magento_AdvancedCheckout
+"Please enter an actual number in the ""Qty"" field.","""করে চলছে"" ক্ষেত্রের একটি প্রকৃত সংখ্যা লিখুন দয়া করে।",module,Magento_AdvancedCheckout
+This product is assigned to another website.,এই পণ্য অন্য ওয়েবসাইট নির্ধারিত হয়।,module,Magento_AdvancedCheckout
+You can add only enabled products.,আপনি শুধুমাত্র সক্রিয় পণ্য যোগ করতে পারেন।,module,Magento_AdvancedCheckout
+You cannot upload this file.,আপনি এই ফাইলটি আপলোড করতে পারিনি।,module,Magento_AdvancedCheckout
+The file is empty.,ফাইলটি খালি।,module,Magento_AdvancedCheckout
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","আপনি একটি পণ্য করা SKU প্রবেশ করেন নি। href=""%1""> এখানে ক্লিক করুন করা SKU দ্বারা পণ্য (গুলি) যোগ করার জন্য </a> <a করুন।",module,Magento_AdvancedCheckout
+You have not entered a product SKU.,আপনি একটি পণ্য করা SKU প্রবেশ করেন নি।,module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","আমরা ID ""% 1"" দ্বারা কার্ট একটি পণ্য জুড়তে পারবেন না।",module,Magento_AdvancedCheckout
+Something went wrong while reordering this product.,যখন এই পণ্যের পুনঃক্রমবিন্যাস কিছু ভুল হয়েছে।,module,Magento_AdvancedCheckout
+We can't find this wish list.,আমরা এই অভিলাষও অবশিষ্ট তালিকা খুঁজে পাচ্ছি না।,module,Magento_AdvancedCheckout
+You added %1 product to your shopping cart.,তুমি তোমার শপিং কার্ট% 1 টি পণ্য যোগ করা হয়েছে।,module,Magento_AdvancedCheckout
+You added %1 products to your shopping cart.,তুমি তোমার শপিং কার্ট 1 পণ্য% এখনো যোগ করেনি।,module,Magento_AdvancedCheckout
+%1 product requires your attention.,% 1 পণ্য আপনার মনোযোগ প্রয়োজন।,module,Magento_AdvancedCheckout
+%1 products require your attention.,% 1 পণ্য আপনার মনোযোগ প্রয়োজন।,module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups","হ্যাঁ, নির্দিষ্ট গ্রাহকের গ্রুপ",module,Magento_AdvancedCheckout
+"Yes, for Everyone","হ্যাঁ, সকলের জন্য",module,Magento_AdvancedCheckout
+No,না,module,Magento_AdvancedCheckout
+The file is corrupt.,ফাইল দূষিত হয়.,module,Magento_AdvancedCheckout
+Please upload the file in .csv format.,.csv বিন্যাসে ফাইল আপলোড করুন।,module,Magento_AdvancedCheckout
+%1 item(s) need your attention.,% 1 আইটেম (গুলি) আপনার মনোযোগ প্রয়োজন।,module,Magento_AdvancedCheckout
+Apply Coupon Code,আবেদন করুন কুপন কোড,module,Magento_AdvancedCheckout
+Remove Coupon Code,কুপন কোড সরান,module,Magento_AdvancedCheckout
+Remove,অপসারণ,module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","কুপন কোড ""% 1"" বৈধ নয়।",module,Magento_AdvancedCheckout
+Shopping Cart Items,শপিং কার্ট চলছে,module,Magento_AdvancedCheckout
+Qty,Qty এ,module,Magento_AdvancedCheckout
+Subtotal,উপমোট,module,Magento_AdvancedCheckout
+Discount,ডিসকাউন্ট,module,Magento_AdvancedCheckout
+Row Subtotal,সারি উপমোট,module,Magento_AdvancedCheckout
+Action,কর্ম,module,Magento_AdvancedCheckout
+No ordered items,কোন আদেশ আইটেম,module,Magento_AdvancedCheckout
+Total %1 product(s),মোট% 1 পণ্য (গুলি),module,Magento_AdvancedCheckout
+Subtotal:,উপসমষ্টি:,module,Magento_AdvancedCheckout
+Please select,অনুগ্রহ করে নির্বাচন করুন,module,Magento_AdvancedCheckout
+Move to Wish List,তালিকা তলা থেকে সরান,module,Magento_AdvancedCheckout
+No item specified.,কোনো আইটেম নির্দিষ্ট করা হয়েছে।,module,Magento_AdvancedCheckout
+Are you sure you want to remove this item?,আপনি এই আইটেমটি সরাতে চান আপনি কি নিশ্চিত?,module,Magento_AdvancedCheckout
+SKU number,করা SKU সংখ্যা,module,Magento_AdvancedCheckout
+Upload File,ফাইল আপলোড করুন,module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","আপনার CSV ফাইল ""SKU"" এবং ""Qty এ"" কলাম অন্তর্ভুক্ত করা আবশ্যক।",module,Magento_AdvancedCheckout
+Reset,রিসেট,module,Magento_AdvancedCheckout
+SKU:,করা SKU:,module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","শুধু <বিঘত আইডি = ""% 1_max_allowed""> স্টক মধ্যে% 2 </ span> এ",module,Magento_AdvancedCheckout
+Item,পদ,module,Magento_AdvancedCheckout
+See price before order confirmation.,অর্ডার নিশ্চিত সামনে মূল্য দেখুন।,module,Magento_AdvancedCheckout
+What's this?,এটা কী?,module,Magento_AdvancedCheckout
+Incl. Tax,Incl। কর,module,Magento_AdvancedCheckout
+Excl. Tax,স্বতন্ত্র। কর,module,Magento_AdvancedCheckout
+Edit item parameters,আইটেম সম্পাদনা করুন পরামিতি,module,Magento_AdvancedCheckout
+Edit,সম্পাদন করা,module,Magento_AdvancedCheckout
+Remove item,আইটেম অপসারণ,module,Magento_AdvancedCheckout
+Products Requiring Attention,পণ্য উচিৎ,module,Magento_AdvancedCheckout
+Add to Cart,কার্ট যোগ,module,Magento_AdvancedCheckout
+Sku,SKU,module,Magento_AdvancedCheckout
+File,ফাইল,module,Magento_AdvancedCheckout
+File extensions allowed: .csv,ফাইল এক্সটেনশস অনুমোদিত: .csv,module,Magento_AdvancedCheckout
+Add Row,সারি যোগ করুন,module,Magento_AdvancedCheckout
+Remove Row,সারি সরান,module,Magento_AdvancedCheckout
+Add Products By SKU,পণ্য যোগ করুন যে অনুযায়ী করা SKU,module,Magento_AdvancedCheckout
+Shopping Cart Management,শপিং কার্ট ম্যানেজমেন্ট,module,Magento_AdvancedCheckout
+View Shopping Cart,দেখুন শপিং কার্ট,module,Magento_AdvancedCheckout
+View and modify Shopping Cart,দেখুন এবং শপিং কার্ট সংশোধন,module,Magento_AdvancedCheckout
+Order by SKU Settings,করা SKU সেটিংস দ্বারা আদেশ,module,Magento_AdvancedCheckout
+Enable Order by SKU on My Account in Storefront,দোকানে ঢোকার মুখে আমার অ্যাকাউন্টে করা SKU দ্বারা ব সক্ষম করুন,module,Magento_AdvancedCheckout
+Customer Groups,গ্রাহকের গ্রুপ,module,Magento_AdvancedCheckout
+Apply Coupon,কুপন প্রয়োগ করুন,module,Magento_AdvancedCheckout
+Order by SKU Description,দ্বারা করা SKU বর্ণনা অর্ডার,module,Magento_AdvancedCheckout
+Display a Link to Loading a Spreadsheet,একটি স্প্রেডশীট লোড হচ্ছে একটি লিঙ্ক প্রদর্শন,module,Magento_AdvancedCheckout
+Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget,আমার অ্যাকাউন্ট & gt একটি লিঙ্ক কিনা নির্ধারণ; করা SKU পৃষ্ঠা দ্বারা আদেশ উইজেট প্রদর্শন করা হবে,module,Magento_AdvancedCheckout
+Link Text,লিঙ্ক পাঠ্য,module,Magento_AdvancedCheckout
+The text of the link to the My Account &gt; Order by SKU page,আমার অ্যাকাউন্ট & gt লিংক পাঠ্য; করা SKU পৃষ্ঠা দ্বারা আদেশ,module,Magento_AdvancedCheckout
+Load a list of SKUs,SKUs একটি তালিকা লোড করুন,module,Magento_AdvancedCheckout
+Order by SKU Template,করা SKU টেমপ্লেট দ্বারা ব,module,Magento_AdvancedCheckout
+Please correct the data sent.,পাঠানো তথ্য সংশোধন করুন।,module,Magento_AdvancedPricingImportExport
+Entity type model '%1' is not found,সত্তা টাইপ মডেল '% 1' পাওয়া না গেলে,module,Magento_AdvancedPricingImportExport
+Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType,সত্তা টাইপ মডেল \ Magento \ CatalogImportExport \ মডেল \ রপ্তানি \ পণ্যের \ টাইপ \ AbstractType একটি দৃষ্টান্ত হতে হবে,module,Magento_AdvancedPricingImportExport
+There are no product types available for export,কোন পণ্য ধরনের রপ্তানির জন্য পাওয়া যায়,module,Magento_AdvancedPricingImportExport
+%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface,% 1 বর্গ \ Magento \ AdvancedRule \ মডেল \ অবস্থা \ FilterTextGeneratorInterface বাস্তবায়ন নেই,module,Magento_AdvancedRule
+Sales Rule,সেলস রুল,module,Magento_AdvancedSalesRule
+Index sales rule,ইনডেক্স বিক্রয় নিয়ম,module,Magento_AdvancedSalesRule
+Related Search Terms,সম্পর্কিত অনুসন্ধান শর্তাবলী,module,Magento_AdvancedSearch
+Add New Search Term,নতুন অনুসন্ধান টার্ম যোগ করুন,module,Magento_AdvancedSearch
+button_label,BUTTON_LABEL,module,Magento_AdvancedSearch
+Missing search engine parameter.,সার্চ ইঞ্জিন প্যারামিটার অনুপস্থিত।,module,Magento_AdvancedSearch
+Successful! Test again?,সফল হয়েছে! আবার পরীক্ষা করুন?,module,Magento_AdvancedSearch
+Connection failed! Test again?,সংযোগ ব্যর্থ হয়েছে! আবার পরীক্ষা করুন?,module,Magento_AdvancedSearch
+Enable Search Recommendations,অনুসন্ধান করুন সক্ষম করুন,module,Magento_AdvancedSearch
+When you enable this option your site may slow down.,যদি আপনি এই বিকল্পটি সক্ষম আপনার সাইটটিতে মন্দীভূত পারে।,module,Magento_AdvancedSearch
+Search Recommendations Count,অনুসন্ধান করুন গণনা,module,Magento_AdvancedSearch
+Show Results Count for Each Recommendation,ফলাফল প্রদর্শন করো প্রতিটি সুপারিশ জন্য গণনা,module,Magento_AdvancedSearch
+Enable Search Suggestions,অনুসন্ধান প্রস্তাবনা সক্ষম করুন,module,Magento_AdvancedSearch
+Search Suggestions Count,অনুসন্ধান প্রস্তাবনা গণনা,module,Magento_AdvancedSearch
+Show Results Count for Each Suggestion,ফলাফল প্রদর্শন করো প্রতিটি প্রস্তাবনা জন্য গণনা,module,Magento_AdvancedSearch
+Related search terms,সম্পর্কিত অনুসন্ধান পদের,module,Magento_AdvancedSearch
+Did you mean,আপনি কি বোঝাতে চেয়েছেন,module,Magento_AdvancedSearch
+ID,আইডি,module,Magento_AdvancedSearch
+Search Query,অনুসন্ধান ক্যোয়ারী,module,Magento_AdvancedSearch
+Store,দোকান,module,Magento_AdvancedSearch
+Results,ফলাফল,module,Magento_AdvancedSearch
+Uses,ব্যবহারসমূহ,module,Magento_AdvancedSearch
+Redirect URL,পুনঃনির্দেশ URL,module,Magento_AdvancedSearch
+Suggested Term,প্রস্তাবিত টার্ম,module,Magento_AdvancedSearch
+Yes,হাঁ,module,Magento_AdvancedSearch
+No,না,module,Magento_AdvancedSearch
+Action,কর্ম,module,Magento_AdvancedSearch
+Edit,সম্পাদন করা,module,Magento_AdvancedSearch
+"RPC call failed, connection timed out after %time_out.","আরপিসি কল ব্যর্থ হয়েছে, সংযোগ% time_out পর সময় শেষ হয়েছে।",module,Magento_Amqp
+Message has been rejected: %1,বার্তা বাতিল করা হয়েছে:% 1,module,Magento_Amqp
+Error while checking if topic is synchronous,যখন পরীক্ষণ যদি বিষয় সমলয় হয় ত্রুটি,module,Magento_Amqp
+Subscription status,সাবস্ক্রিপশন অবস্থা,module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","দুঃখিত, আপনার অনুরোধ প্রক্রিয়াকরণে একটি ত্রুটি হয়েছে। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.",module,Magento_Analytics
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","দুঃখিত, Magento Analytics এ আপনার রেজিস্ট্রেশন অনুরোধ প্রক্রিয়াকরণে একটি ত্রুটি ছিল। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.",module,Magento_Analytics
+Error occurred during postponement notification,স্থগিত প্রজ্ঞাপন সময় ত্রুটি ঘটেছে,module,Magento_Analytics
+Command was not found.,কমান্ড পাওয়া যায়নি।,module,Magento_Analytics
+There was an error save new configuration value.,সংরক্ষণ করুন নতুন কনফিগারেশন মান একটি ত্রুটি হয়েছিল।,module,Magento_Analytics
+Please select a vertical.,দয়া করে একটি উল্লম্ব নির্বাচন করুন।,module,Magento_Analytics
+--Please Select--,--অনুগ্রহ করে নির্বাচন করুন--,module,Magento_Analytics
+Cannot find predefined integration user!,পূর্বনির্ধারিত ইন্টিগ্রেশন ব্যবহারকারী খুঁজে পাওয়া যাচ্ছে না!,module,Magento_Analytics
+TestMessage,TestMessage,module,Magento_Analytics
+Error message,ভুল বার্তা,module,Magento_Analytics
+Apps and Games,অ্যাপ্লিকেশন এবং গেম,module,Magento_Analytics
+Athletic/Sporting Goods,অ্যাথলেটিক / ক্রীড়া সামগ্রী,module,Magento_Analytics
+Art and Design,শিল্প ও ডিজাইন,module,Magento_Analytics
+Free Tier,ফ্রি টিয়ার,module,Magento_Analytics
+An error occurred while subscription process.,যখন সাবস্ক্রিপশন প্রক্রিয়া একটি ত্রুটি ঘটেছে।,module,Magento_Analytics
+Analytics,বৈশ্লেষিক ন্যায়,module,Magento_Analytics
+API,এপিআই,module,Magento_Analytics
+Configuration,কনফিগারেশন,module,Magento_Analytics
+BI Essential,দ্বি আবশ্যিক,module,Magento_Analytics
+Basic Tier,বেসিক টিয়ার,module,Magento_Analytics
+BI Essentials,দ্বি এসেনশিয়ালস,module,Magento_Analytics
+General,সাধারণ,module,Magento_Analytics
+Send the system and transaction data to Magento Analytics service,Magento অ্যানালিটিক্স সেবার সিস্টেম এবং লেনদেনের ডেটা পাঠায়,module,Magento_Analytics
+Vertical,উল্লম্ব,module,Magento_Analytics
+Analytics Subscription,অ্যানালিটিক্স সাবস্ক্রিপশন,module,Magento_Analytics
+Subscription Confirmation,সাবস্ক্রিপশন নিশ্চিতকরণ,module,Magento_Analytics
+Cancel,বাতিল,module,Magento_Analytics
+Ok,ঠিক আছে,module,Magento_Analytics
+"I agree with sending my system
+                            configuration and transaction data to Magento Analytics.",আমি Magento Analytics এ আমার সিস্টেম কনফিগারেশন এবং লেনদেনের ডেটা প্রেরণ সাথে একমত।,module,Magento_Analytics
+Back,পিছনে,module,Magento_AsynchronousOperations
+Done,সম্পন্ন,module,Magento_AsynchronousOperations
+Retry,পুনরায় চেষ্টা করা,module,Magento_AsynchronousOperations
+'Action Details - #' .,'অ্যাকশন বিবরণ - #'।,module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","% 1 আইটেম (গুলি) আপডেটের জন্য নির্ধারিত করা হয়েছে। """,module,Magento_AsynchronousOperations
+Bulk Actions Log,বাল্ক পদক্ষেপ লগিন,module,Magento_AsynchronousOperations
+%1 item(s) are currently being updated.,% 1 আইটেম (গুলি) বর্তমানে আপডেট করা হচ্ছে।,module,Magento_AsynchronousOperations
+"Task ""%1"":","কার্যক্রম 1"":",module,Magento_AsynchronousOperations
+%1 item(s) have been scheduled for update.,% 1 আইটেম (গুলি) আপডেটের জন্য নির্ধারিত করা হয়েছে।,module,Magento_AsynchronousOperations
+%1 item(s) have been successfully updated.,% 1 টি আইটেম (গুলি) সফলভাবে আপডেট করা হয়েছে।,module,Magento_AsynchronousOperations
+%1 item(s) failed to update,% 1 আইটেম (গুলি) আপডেট করতে ব্যর্থ হয়েছি,module,Magento_AsynchronousOperations
+Details,বিস্তারিত,module,Magento_AsynchronousOperations
+View Details,বিস্তারিত দেখুন,module,Magento_AsynchronousOperations
+Dismiss,খারিজ করা,module,Magento_AsynchronousOperations
+"Pending, in queue...",সারিতে অপেক্ষারত ...,module,Magento_AsynchronousOperations
+%1 items selected for mass update,% 1 ভর আপডেটের জন্য নির্বাচিত আইটেমগুলি,module,Magento_AsynchronousOperations
+", %1 successfully updated",",% 1 সফলভাবে আপডেট",module,Magento_AsynchronousOperations
+", %1 failed to update",",% 1 আপডেট করতে ব্যর্থ হয়েছি",module,Magento_AsynchronousOperations
+Something went wrong.,কিছু ভুল হয়েছে.,module,Magento_AsynchronousOperations
+Action Log,অ্যাকশন লগ,module,Magento_AsynchronousOperations
+Bulk Actions,বিপুল কর্ম,module,Magento_AsynchronousOperations
+Days Saved in Log,দিন লগিন সংরক্ষিত,module,Magento_AsynchronousOperations
+Description of Operation,অপারেশন বর্ণনা,module,Magento_AsynchronousOperations
+Summary,সারাংশ,module,Magento_AsynchronousOperations
+Start Time,সময় শুরু,module,Magento_AsynchronousOperations
+Items to Retry,চলছে পুনরায় চেষ্টা করতে,module,Magento_AsynchronousOperations
+"To retry, select the items and click â€œRetryâ€.","পুনরায় চেষ্টা করতে, আইটেম নির্বাচন এবং একটি € œRetryâ € ?? ক্লিক করুন।",module,Magento_AsynchronousOperations
+Items That Canâ€™t Be Updated.,চলছে Cana € ™ T আপডেট করা হয়।,module,Magento_AsynchronousOperations
+ID,আইডি,module,Magento_AsynchronousOperations
+Status,অবস্থা,module,Magento_AsynchronousOperations
+Meta Information,মেটা তথ্য,module,Magento_AsynchronousOperations
+Error,এরর,module,Magento_AsynchronousOperations
+Dismiss All Completed Tasks,খারিজ সব সম্পন্ন কার্যগুলি,module,Magento_AsynchronousOperations
+Action Details - #,কর্মের বিবরণ - #,module,Magento_AsynchronousOperations
+Number of Records Affected,রেকর্ডস সংখ্যা প্রভাবিত,module,Magento_AsynchronousOperations
+We can't find the role for the user you wanted.,আমরা ব্যবহারকারী আপনি চেয়েছিলেন জন্য ভূমিকা খুঁজে পাচ্ছি না।,module,Magento_Authorization
+Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.,যখন অনুমতি সম্পদের একটি তালিকা কম্পাইল কিছু ভুল হয়েছে। আপনি আরও ব্যতিক্রম লগ ইন করুন জানতে পারবেন।,module,Magento_Authorization
+You created the order.,আপনি অর্ডার তৈরি করা হয়েছে।,module,Magento_Authorizenet
+Order saving error: %1,অর্ডার সংরক্ষণে ত্রুটি:% 1,module,Magento_Authorizenet
+Please choose a payment method.,দয়া করে একটি অর্থ প্রদানের পদ্ধতি চয়ন।,module,Magento_Authorizenet
+We can't process your order right now. Please try again later.,আমরা এই মুহূর্তে আপনার অর্ডার প্রক্রিয়া করতে পারবে না। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.,module,Magento_Authorizenet
+An error occurred on the server. Please try to place the order again.,সার্ভারে একটি ত্রুটি ঘটেছে। আবার অর্ডার দিতে চেষ্টা করুন।,module,Magento_Authorizenet
+Credit Card: xxxx-%1,ক্রেডিট কার্ড: xxxx-% 1,module,Magento_Authorizenet
+amount %1,পরিমাণ% 1,module,Magento_Authorizenet
+failed.,ব্যর্থ.,module,Magento_Authorizenet
+successful.,সফল।,module,Magento_Authorizenet
+Authorize.Net Transaction ID %1.,Authorize.Net লেনদেন নাম্বার% 1।,module,Magento_Authorizenet
+authorize,অনুমোদন করা,module,Magento_Authorizenet
+authorize and capture,অনুমোদন এবং ক্যাপচার,module,Magento_Authorizenet
+capture,গ্রেপ্তার,module,Magento_Authorizenet
+refund,প্রত্যর্পণ,module,Magento_Authorizenet
+void,অকার্যকর,module,Magento_Authorizenet
+Gateway error: %1,গেটওয়ে ত্রুটি:% 1,module,Magento_Authorizenet
+Something went wrong in the payment gateway.,কিছু পেমেন্ট গেটওয়ে ভুল হয়েছে।,module,Magento_Authorizenet
+Invalid amount for capture.,ক্যাপচার জন্য অবৈধ পরিমাণ।,module,Magento_Authorizenet
+Payment capturing error.,পেমেন্ট ক্যাপচারিং ত্রুটি।,module,Magento_Authorizenet
+Invalid transaction ID.,অবৈধ লেনদেনের আইডি।,module,Magento_Authorizenet
+Payment voiding error.,পেমেন্ট voiding ত্রুটি।,module,Magento_Authorizenet
+Invalid amount for refund.,প্রত্যর্পণ জন্য অবৈধ পরিমাণ।,module,Magento_Authorizenet
+Payment refunding error.,পেমেন্ট পরিশোধের ত্রুটি।,module,Magento_Authorizenet
+The transaction was declined because the response hash validation failed.,কারণ প্রতিক্রিয়া হ্যাশ বৈধতা ব্যর্থ লেনদেন প্রত্যাখ্যান করা হয়েছে।,module,Magento_Authorizenet
+This payment didn't work out because we can't find this order.,"এই অর্থ প্রদানের কাজ করা হয়নি, কারণ আমরা এই আদেশ খুঁজে পাচ্ছি না।",module,Magento_Authorizenet
+There was a payment authorization error.,একটি পেমেন্ট অনুমোদন ত্রুটি হয়েছে।,module,Magento_Authorizenet
+Please enter a transaction ID to authorize this payment.,এই অর্থ প্রদানের অনুমোদন দিতে একটি লেনদেন আইডি লিখুন দয়া করে।,module,Magento_Authorizenet
+Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.,কিছু ভুল হয়েছে: অর্থ প্রদান পরিমাণ অর্ডার পরিমাণ সাথে মিলছে না। দয়া করে এই সংশোধন করে আবার চেষ্টা করুন।,module,Magento_Authorizenet
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","লেনদেন% 1 অনুমোদিত হয়েছে। পরিমাণ% 2। লেনদেন স্থিতি ""% 3"" হয়",module,Magento_Authorizenet
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","লেনদেন% 1 অগ্রাহ্য করা হয়েছে / অস্বীকার করেছে। লেনদেন অবস্থা ""% 2"" হয়। পরিমাণ% 3।",module,Magento_Authorizenet
+Authorize Only,শুধু অনুমোদন,module,Magento_Authorizenet
+Authorize and Capture,অনুমোদন এবং ক্যাপচার,module,Magento_Authorizenet
+Unable to get transaction details. Try again later.,লেনদেনের বিবরণ পাওয়া যায়নি। পরে আবার চেষ্টা করুন।,module,Magento_Authorizenet
+Electronic payments save the trees.,ইলেকট্রনিক পেমেন্ট গাছ সংরক্ষণ করুন।,module,Magento_Authorizenet
+Credit Card Type,ক্রেডিট কার্ড প্রকার,module,Magento_Authorizenet
+Please Select,অনুগ্রহ করে নির্বাচন করুন,module,Magento_Authorizenet
+Credit Card Number,ক্রেডিট কার্ড নম্বর,module,Magento_Authorizenet
+Expiration Date,মেয়াদ উত্তীর্ণের তারিখ,module,Magento_Authorizenet
+Card Verification Number,কার্ড যাচাই সংখ্যা,module,Magento_Authorizenet
+Fraud Detection,জালিয়াতি সনাক্তকরণ,module,Magento_Authorizenet
+FDS Filter Action,FDS ফিল্টার অ্যাকশন,module,Magento_Authorizenet
+AVS Response,AVS রেসপন্স,module,Magento_Authorizenet
+Card Code Response,কার্ডের কোড রেসপন্স,module,Magento_Authorizenet
+CAVV Response,CAVV রেসপন্স,module,Magento_Authorizenet
+Fraud Filters,ফ্রড ফিল্টার,module,Magento_Authorizenet
+Place Order,প্লেস আদেশ,module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","দুঃখিত, কিন্তু কিছু ভুল হয়েছে। বিক্রেতার সাথে যোগাযোগ করুন।",module,Magento_Authorizenet
+Authorize.net Direct Post,Authorize.net সরাসরি পোস্ট,module,Magento_Authorizenet
+Enabled,সক্ষম করা,module,Magento_Authorizenet
+Payment Action,পেমেন্ট অ্যাকশন,module,Magento_Authorizenet
+Title,খেতাব,module,Magento_Authorizenet
+API Login ID,এপিআই লগইন আইডি,module,Magento_Authorizenet
+Transaction Key,লেনদেন কী,module,Magento_Authorizenet
+Merchant MD5,মার্চেন্ট MD5,module,Magento_Authorizenet
+New Order Status,নিউ অর্ডার স্থিতি,module,Magento_Authorizenet
+Test Mode,পরীক্ষা মোড,module,Magento_Authorizenet
+Gateway URL,গেটওয়ে URL টি,module,Magento_Authorizenet
+Transaction Details URL,লেনদেনের বিশদ URL টি,module,Magento_Authorizenet
+Accepted Currency,গৃহীত মুদ্রা,module,Magento_Authorizenet
+Debug,ডেবাগ্ করা,module,Magento_Authorizenet
+Email Customer,ইমেইল গ্রাহক,module,Magento_Authorizenet
+Merchant's Email,মার্চেন্ট ইমেইল,module,Magento_Authorizenet
+Credit Card Types,ক্রেডিট কার্ড প্রকারভেদ,module,Magento_Authorizenet
+Credit Card Verification,ক্রেডিট কার্ড যাচাই,module,Magento_Authorizenet
+Payment from Applicable Countries,প্রযোজ্য দেশ থেকে পেমেন্ট,module,Magento_Authorizenet
+Payment from Specific Countries,নির্দিষ্ট কিছু দেশে থেকে পেমেন্ট,module,Magento_Authorizenet
+Minimum Order Total,নূন্যতম আদেশ মোট,module,Magento_Authorizenet
+Maximum Order Total,সর্বোচ্চ আদেশ মোট,module,Magento_Authorizenet
+Sort Order,সজ্জাক্রম,module,Magento_Authorizenet
+Invalid Form Key. Please refresh the page.,অবৈধ ফর্ম কী। পৃষ্ঠাটি রিফ্রেশ করুন।,module,Magento_Backend
+You entered an invalid Secret Key. Please refresh the page.,আপনি একটি অবৈধ গোপন কী প্রবেশ করে। পৃষ্ঠাটি রিফ্রেশ করুন।,module,Magento_Backend
+Cache Storage Management,ক্যাশে সংগ্রহস্থল পরিচালনা,module,Magento_Backend
+Flush Magento Cache,ফ্লাশ Magento ক্যাশে,module,Magento_Backend
+The cache storage may contain additional data. Are you sure that you want to flush it?,ক্যাশে স্টোরেজ অতিরিক্ত ডেটা থাকতে পারে। আপনি কি নিশ্চিত যে আপনি এটা ফ্লাশ করার ব্যাপারে নিশ্চিত?,module,Magento_Backend
+Flush Cache Storage,ফ্লাশ ক্যাশে সংগ্রহস্থল,module,Magento_Backend
+Invalidated,অকার্যকর ও বাতিল,module,Magento_Backend
+Orders,অর্ডার,module,Magento_Backend
+Amounts,রাশি,module,Magento_Backend
+Bestsellers,সর্বোচ্চ বিক্রেতা,module,Magento_Backend
+Most Viewed Products,সর্বাধিক দেখা পণ্য,module,Magento_Backend
+New Customers,নতুন গ্রাহকরা,module,Magento_Backend
+Customers,গ্রাহকরা,module,Magento_Backend
+Customer,ক্রেতা,module,Magento_Backend
+Guest,অতিথি,module,Magento_Backend
+Items,চলছে,module,Magento_Backend
+Total,মোট,module,Magento_Backend
+Lifetime Sales,লাইফটাইম সেলস,module,Magento_Backend
+Average Order,গড় অর্ডার,module,Magento_Backend
+Average,গড়,module,Magento_Backend
+Product,প্রোডাক্ট,module,Magento_Backend
+Price,মূল্য,module,Magento_Backend
+Quantity,পরিমাণ,module,Magento_Backend
+Views,দেখেছে,module,Magento_Backend
+Revenue,রাজস্ব,module,Magento_Backend
+Tax,কর,module,Magento_Backend
+Shipping,পাঠানো,module,Magento_Backend
+"Images (.gif, .jpg, .png)","চিত্র (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","মিডিয়া (.avi, .flv, .swf)",module,Magento_Backend
+All Files,সকল নথি,module,Magento_Backend
+Reset to Default,ডিফল্টে রিসেট,module,Magento_Backend
+All Store Views,সমস্ত ভাণ্ডার দেখেছে,module,Magento_Backend
+What is this?,এটা কি?,module,Magento_Backend
+Save Account,অ্যাকাউন্ট সংরক্ষণ করুন,module,Magento_Backend
+My Account,আমার অ্যাকাউন্ট,module,Magento_Backend
+Account Information,হিসাবের তথ্য,module,Magento_Backend
+User Name,ব্যবহারকারীর নাম,module,Magento_Backend
+First Name,প্রথম নাম,module,Magento_Backend
+Last Name,নামের শেষাংশ,module,Magento_Backend
+Email,ইমেইল,module,Magento_Backend
+User Email,ব্যবহারকারী ইমেইল,module,Magento_Backend
+New Password,নতুন পাসওয়ার্ড,module,Magento_Backend
+Password Confirmation,পাসওয়ার্ড নিশ্চিতকরণ,module,Magento_Backend
+Interface Locale,ইন্টারফেস লোকেল,module,Magento_Backend
+Current User Identity Verification,বর্তমান ব্যবহারকারীর পরিচয় যাচাইকরণ,module,Magento_Backend
+Your Password,আপনার পাসওয়ার্ড,module,Magento_Backend
+Save Cache Settings,সংরক্ষণ করুন ক্যাশে সেটিংস,module,Magento_Backend
+Catalog Rewrites,ক্যাটালগ নতুন করে লেখা হয়,module,Magento_Backend
+Refresh,সতেজ করা,module,Magento_Backend
+Images Cache,চিত্র ক্যাশে,module,Magento_Backend
+Clear,পরিষ্কার,module,Magento_Backend
+Search Index,অনুসন্ধান ইনডেক্স,module,Magento_Backend
+Rebuild,পুনর্নির্মাণ করা,module,Magento_Backend
+Inventory Stock Status,পরিসংখ্যা শেয়ার স্থিতি,module,Magento_Backend
+Rebuild Catalog Index,পুনর্নির্মাণ ক্যাটালগ সূচক,module,Magento_Backend
+Rebuild Flat Catalog Category,পুনর্নির্মাণ ফ্ল্যাট ক্যাটালগ শ্রেণী,module,Magento_Backend
+Rebuild Flat Catalog Product,পুনর্নির্মাণ ফ্ল্যাট ক্যাটালগ পণ্যের,module,Magento_Backend
+Cache Control,ক্যাশে কন্ট্রোল,module,Magento_Backend
+All Cache,সকল ক্যাশে,module,Magento_Backend
+No change,পরিবর্তন নেই,module,Magento_Backend
+Disable,অক্ষম,module,Magento_Backend
+Enable,সক্ষম করা,module,Magento_Backend
+Add Design Change,নকশা পরিবর্তন যোগ করুন,module,Magento_Backend
+Back,পিছনে,module,Magento_Backend
+Delete,মুছে ফেলা,module,Magento_Backend
+Are you sure?,তুমি কি নিশ্চিত?,module,Magento_Backend
+Save,সংরক্ষণ করুন,module,Magento_Backend
+Edit Design Change,সম্পাদনা নকশা পরিবর্তন,module,Magento_Backend
+New Store Design Change,নতুন দোকান নকশা পরিবর্তন,module,Magento_Backend
+General Settings,সাধারণ সেটিংস,module,Magento_Backend
+Store,দোকান,module,Magento_Backend
+-- Please Select --,-- অনুগ্রহ করে নির্বাচন করুন --,module,Magento_Backend
+Custom Design,নিজস্ব নকশা,module,Magento_Backend
+Date From,তারিখ থেকে,module,Magento_Backend
+Date To,ডেট,module,Magento_Backend
+Design Change,নকশা পরিবর্তন,module,Magento_Backend
+General,সাধারণ,module,Magento_Backend
+Cancel,বাতিল,module,Magento_Backend
+Delete %1 '%2','% 2'% 1 মুছুন,module,Magento_Backend
+Delete %1,% 1 মুছুন,module,Magento_Backend
+Block Information,ব্লক তথ্য,module,Magento_Backend
+Backup Options,ব্যাকআপ বিকল্প,module,Magento_Backend
+Create DB Backup,ডিবি ব্যাকআপ তৈরি করুন,module,Magento_Backend
+Yes,হাঁ,module,Magento_Backend
+No,না,module,Magento_Backend
+Delete Store,দোকানের মুছুন,module,Magento_Backend
+Delete Web Site,মুছুন ওয়েব সাইট,module,Magento_Backend
+Save Web Site,সংরক্ষণ করুন ওয়েব সাইট,module,Magento_Backend
+Save Store,সংরক্ষণ করুন স্টোর,module,Magento_Backend
+Save Store View,দোকানের প্রদর্শন,module,Magento_Backend
+Delete Store View,দোকানের দেখুন মুছুন,module,Magento_Backend
+Edit Web Site,ওয়েব সাইট সম্পাদনা,module,Magento_Backend
+New Web Site,নতুন ওয়েবসাইট,module,Magento_Backend
+Edit Store,স্টোর সম্পাদনা করুন,module,Magento_Backend
+New Store,নতুন দোকান,module,Magento_Backend
+Edit Store View,দোকানের দেখুন সম্পাদনা করুন,module,Magento_Backend
+New Store View,নতুন দোকান দেখুন,module,Magento_Backend
+Store Information,দোকান তথ্য,module,Magento_Backend
+Web Site,ওয়েব সাইট,module,Magento_Backend
+Name,নাম,module,Magento_Backend
+Code,কোড,module,Magento_Backend
+Root Category,রুট শ্রেণী,module,Magento_Backend
+Default Store View,ডিফল্ট দোকান দেখুন,module,Magento_Backend
+Store View Information,সঞ্চয় করুন দেখুন তথ্য,module,Magento_Backend
+Status,অবস্থা,module,Magento_Backend
+Disabled,অক্ষম,module,Magento_Backend
+Enabled,সক্ষম করা,module,Magento_Backend
+Sort Order,সজ্জাক্রম,module,Magento_Backend
+Web Site Information,ওয়েব সাইট তথ্য,module,Magento_Backend
+Default Store,ডিফল্ট স্টোর,module,Magento_Backend
+Set as Default,ডিফল্ট হিসেবে সেট করুন,module,Magento_Backend
+Stores,স্টোর,module,Magento_Backend
+Create Website,ওয়েবসাইট তৈরি করুন,module,Magento_Backend
+Create Store,দোকান তৈরি করুন,module,Magento_Backend
+Create Store View,দোকানের দেখুন তৈরি করুন,module,Magento_Backend
+Home,বাড়ি,module,Magento_Backend
+Reset,রিসেট,module,Magento_Backend
+Are you sure you want to do this?,আপনি কি সত্যি এটা করতে চান?,module,Magento_Backend
+Add New Image,নতুন ছবি যোগ করুন,module,Magento_Backend
+Export block for grid %1 is not defined,গ্রিড% 1 জন্য রপ্তানি ব্লক সংজ্ঞায়িত করা হয় না,module,Magento_Backend
+Reset Filter,রিসেট ফিল্টার,module,Magento_Backend
+Search,অনুসন্ধান,module,Magento_Backend
+Any,কোন,module,Magento_Backend
+All Countries,সব দেশ,module,Magento_Backend
+From,থেকে,module,Magento_Backend
+To,থেকে,module,Magento_Backend
+Date selector,তারিখ নির্বাচক,module,Magento_Backend
+[ deleted ],[মোছা],module,Magento_Backend
+Select All,সবগুলি,module,Magento_Backend
+[deleted],[মোছা],module,Magento_Backend
+We couldn't find any records.,আমরা কোনো রেকর্ড খুঁজে পাইনি।,module,Magento_Backend
+Add New,নতুন যুক্ত করুন,module,Magento_Backend
+Invalid export type supplied for grid export block,অবৈধ রপ্তানি টাইপ গ্রিড রপ্তানি ব্লক জন্য সরবরাহ করা,module,Magento_Backend
+Export,রপ্তানি,module,Magento_Backend
+Please correct the column format and try again.,কলাম বিন্যাস সংশোধন করে আবার চেষ্টা করুন।,module,Magento_Backend
+Please select items.,আইটেম নির্বাচন করুন।,module,Magento_Backend
+Submit,জমা দিন,module,Magento_Backend
+Unknown block type,অজানা ব্লক টাইপ,module,Magento_Backend
+Please correct the tab configuration and try again. Tab Id should be not empty,ট্যাব কনফিগারেশন ঠিক করুন এবং আবার চেষ্টা করুন। ট্যাব আইডি খালি রাখা যাবে না,module,Magento_Backend
+Please correct the tab configuration and try again.,ট্যাব কনফিগারেশন ঠিক করুন এবং আবার চেষ্টা করুন।,module,Magento_Backend
+You have logged out.,আপনি লগ আউট করেছেন।,module,Magento_Backend
+Specified cache type(s) don't exist: %1,নির্দিষ্ট ক্যাশে প্রকার (গুলি) উপস্থিত না থাকার:% 1,module,Magento_Backend
+The image cache was cleaned.,চিত্র ক্যাশে পরিষ্কার করা হয়।,module,Magento_Backend
+An error occurred while clearing the image cache.,চিত্র ক্যাশে ক্লিয়ারিং করার সময় একটি ত্রুটি ঘটেছে।,module,Magento_Backend
+The JavaScript/CSS cache has been cleaned.,জাভাস্ক্রিপ্ট / CSS ক্যাশে পরিষ্কার করা হয়েছে।,module,Magento_Backend
+An error occurred while clearing the JavaScript/CSS cache.,জাভাস্ক্রিপ্ট / CSS ক্যাশে ক্লিয়ারিং করার সময় একটি ত্রুটি ঘটেছে।,module,Magento_Backend
+The static files cache has been cleaned.,স্ট্যাটিক ফাইল ক্যাশে পরিষ্কার করা হয়েছে।,module,Magento_Backend
+You flushed the cache storage.,আপনি কি ক্যাশে স্টোরেজ রাঙা।,module,Magento_Backend
+The Magento cache storage has been flushed.,Magento ক্যাশে স্টোরেজ রাঙা হয়েছে।,module,Magento_Backend
+Cache Management,ক্যাশে ম্যানেজমেন্ট,module,Magento_Backend
+You can't change status of cache type(s) in production mode,আপনি উৎপাদন মোডে ক্যাশে প্রকার (গুলি) অবস্থা পরিবর্তন করতে পারবেন না,module,Magento_Backend
+%1 cache type(s) disabled.,% 1 ক্যাশে প্রকার (গুলি) অক্ষম করা হয়েছে।,module,Magento_Backend
+An error occurred while disabling cache.,যখন ক্যাশে অক্ষম একটি ত্রুটি ঘটেছে।,module,Magento_Backend
+%1 cache type(s) enabled.,% 1 ক্যাশে প্রকার (গুলি) সক্ষম করা হয়েছে।,module,Magento_Backend
+An error occurred while enabling cache.,যখন ক্যাশে সক্রিয় একটি ত্রুটি ঘটেছে।,module,Magento_Backend
+%1 cache type(s) refreshed.,% 1 ক্যাশে প্রকার (গুলি) রিফ্রেশ।,module,Magento_Backend
+An error occurred while refreshing cache.,যখন ক্যাশে রিফ্রেশ একটি ত্রুটি ঘটেছে।,module,Magento_Backend
+Dashboard,ড্যাশবোর্ড,module,Magento_Backend
+We updated lifetime statistic.,আমরা সারা পরিসংখ্যাত আপডেট করা হয়েছে।,module,Magento_Backend
+We can't refresh lifetime statistics.,আমরা সারা পরিসংখ্যান রিফ্রেশ করতে পারবেন না।,module,Magento_Backend
+invalid request,অনুরোধ অগ্রহণযোগ্য,module,Magento_Backend
+see error log for details,বিস্তারিত জানার জন্য ত্রুটি লগ দেখতে,module,Magento_Backend
+Service unavailable: %1,অনুপলব্ধ পরিষেবা:% 1,module,Magento_Backend
+Error,এরর,module,Magento_Backend
+Access Denied.,অ্যাক্সেস অস্বীকৃত।,module,Magento_Backend
+You need more permissions to do this.,আপনি আরও অনুমতির প্রয়োজন এই কাজ করতে।,module,Magento_Backend
+No search modules were registered,কোন অনুসন্ধান মডিউল নিবন্ধিত হয়েছে,module,Magento_Backend
+Please make sure that all global admin search modules are installed and activated.,দয়া করে নিশ্চিত করুন যে সব বিশ্বব্যাপী অ্যাডমিন অনুসন্ধান মডিউল ইনস্টল ও সক্রিয় করা হয়।,module,Magento_Backend
+You saved the account.,আপনি অ্যাকাউন্ট সংরক্ষণ করা হয়েছে।,module,Magento_Backend
+An error occurred while saving account.,অ্যাকাউন্ট সংরক্ষণ করার সময় একটি ত্রুটি ঘটেছে।,module,Magento_Backend
+You deleted the design change.,আপনি নকশা পরিবর্তন মোছা হয়েছে।,module,Magento_Backend
+You can't delete the design change.,আপনি নকশা পরিবর্তন মুছতে পারবেন না।,module,Magento_Backend
+Store Design,দোকানের ডিজাইন,module,Magento_Backend
+Edit Store Design Change,সম্পাদনা করুন স্টোর নকশা পরিবর্তন,module,Magento_Backend
+You saved the design change.,আপনি নকশা পরিবর্তন সংরক্ষণ করা হয়েছে।,module,Magento_Backend
+System,পদ্ধতি,module,Magento_Backend
+Manage Stores,দোকান পরিচালনা,module,Magento_Backend
+The database was backed up.,ডাটাবেসের ব্যাকআপ করা হয়েছে।,module,Magento_Backend
+We can't create a backup right now. Please try again later.,আমরা একটি ব্যাকআপ ডান এখন তৈরি করতে পারবেন না। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.,module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","একটি% 1 মোছা% 1 (যেমন বিভাগ, পণ্য, ইত্যাদি) সঙ্গে যুক্ত তথ্য মুছে না, কিন্তু% 1 পুনঃস্থাপন করতে সক্ষম হবে না। এটা তোলে পরামর্শ দেওয়া হয় যে আপনি% 1 মুছে ফেলার পূর্বে একটি ডাটাবেস ব্যাকআপ তৈরি করুন।",module,Magento_Backend
+Something went wrong. Please try again.,কিছু ভুল হয়েছে. অনুগ্রহপূর্বক আবার চেষ্টা করুন.,module,Magento_Backend
+This store cannot be deleted.,এই দোকান মোছা যাবে না।,module,Magento_Backend
+You deleted the store.,আপনি স্টোরের মোছা হয়েছে।,module,Magento_Backend
+Unable to delete the store. Please try again later.,দোকান মুছতে অক্ষম। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.,module,Magento_Backend
+This store view cannot be deleted.,এই দোকান দৃশ্য মুছে ফেলা যাবে না।,module,Magento_Backend
+Store View,দোকানের দেখুন,module,Magento_Backend
+You deleted the store view.,আপনি স্টোরের দৃশ্য মোছা হয়েছে।,module,Magento_Backend
+Unable to delete the store view. Please try again later.,দোকান দৃশ্য মুছতে অক্ষম। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.,module,Magento_Backend
+This website cannot be deleted.,এই ওয়েবসাইটটি মোছা যাবে না।,module,Magento_Backend
+You deleted the website.,আপনি ওয়েবসাইট মোছা হয়েছে।,module,Magento_Backend
+Unable to delete the website. Please try again later.,ওয়েবসাইট মুছতে অক্ষম। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.,module,Magento_Backend
+The website does not exist.,ওয়েবসাইট অস্তিত্ব নেই।,module,Magento_Backend
+Before modifying the website code please make sure it is not used in index.php.,ওয়েবসাইট কোড পরিবর্তন দয়া করে নিশ্চিত করুন যে এটি index.php ব্যবহার করা হয় না করতে আগে।,module,Magento_Backend
+The store does not exist,দোকান বিদ্যমান নয়,module,Magento_Backend
+Store view doesn't exist,দোকানের দৃশ্য অস্তিত্ব নেই,module,Magento_Backend
+Before modifying the store view code please make sure it is not used in index.php.,দোকান দৃশ্য কোড পরিবর্তন দয়া করে নিশ্চিত করুন যে এটি index.php ব্যবহার করা হয় না করতে আগে।,module,Magento_Backend
+New,নতুন,module,Magento_Backend
+All Stores,সব দোকানে,module,Magento_Backend
+You saved the website.,আপনি ওয়েবসাইট সংরক্ষিত হয়েছে।,module,Magento_Backend
+The default store cannot be disabled,ডিফল্ট দোকান অক্ষম করা যাবে না,module,Magento_Backend
+You saved the store view.,আপনি স্টোরের দৃশ্য সংরক্ষণ করা হয়েছে।,module,Magento_Backend
+An inactive store view cannot be saved as default store view,একটি নিষ্ক্রিয় দোকান দৃশ্য ডিফল্ট দোকান দর্শন হিসাবে সংরক্ষণ করা যাবে না,module,Magento_Backend
+You saved the store.,আপনি স্টোরের সংরক্ষিত হয়েছে।,module,Magento_Backend
+Something went wrong while saving. Please review the error log.,সঞ্চয় করার সময় কিছু ভুল হয়েছে। ত্রুটি লগ পর্যালোচনা করুন।,module,Magento_Backend
+Last 24 Hours,গত 24 ঘন্টায়,module,Magento_Backend
+Last 7 Days,গত 7 দিনে,module,Magento_Backend
+Current Month,বর্তমান মাস,module,Magento_Backend
+YTD,ওয়াইটিডি,module,Magento_Backend
+2YTD,2YTD,module,Magento_Backend
+Authentication storage is incorrect.,প্রমাণীকরণ স্টোরেজ ভুল।,module,Magento_Backend
+You did not sign in correctly or your account is temporarily disabled.,আপনি সঠিকভাবে সাইন ইন করা হয়নি অথবা আপনার অ্যাকাউন্ট সাময়িকভাবে নিষ্ক্রিয় করা হয়েছে।,module,Magento_Backend
+Authentication error occurred.,প্রমাণীকরণ ত্রুটি ঘটেছে।,module,Magento_Backend
+Admin session lifetime must be less than or equal to 31536000 seconds (one year),এডমিন অধিবেশন জীবনকাল 31536000 সেকেন্ড (এক বছর) থেকে কম বা সমান হতে হবে,module,Magento_Backend
+Admin session lifetime must be greater than or equal to 60 seconds,এডমিন অধিবেশন জীবদ্দশায় এর চেয়ে বড় বা 60 সেকেন্ড সমান হতে হবে,module,Magento_Backend
+Order,ক্রম,module,Magento_Backend
+Order #%1,অর্ডার #% 1,module,Magento_Backend
+Access denied,এক্সেস ডিনাইড,module,Magento_Backend
+Please try to sign out and sign in again.,সাইন আউট করুন এবং আবার সাইন ইন করার চেষ্টা করুন।,module,Magento_Backend
+"If you continue to receive this message, please contact the store owner.","যদি আপনি এই বার্তার গ্রহণ করতে থাকেন, তাহলে দোকান মালিক সাথে যোগাযোগ করুন।",module,Magento_Backend
+You need more permissions to access this.,এই একসেস করতে হলে আপনার আরও অনুমতির প্রয়োজন।,module,Magento_Backend
+"Welcome, please sign in","স্বাগতম, সাইন ইন করুন",module,Magento_Backend
+Username,ব্যবহারকারীর নাম,module,Magento_Backend
+user name,ব্যবহারকারীর নাম,module,Magento_Backend
+Password,পাসওয়ার্ড,module,Magento_Backend
+password,পাসওয়ার্ড,module,Magento_Backend
+Sign in,প্রবেশ কর,module,Magento_Backend
+Select Range:,বিন্যাস নির্বাচন:,module,Magento_Backend
+No Data Found,কোনো ডেটা পাওয়া যায়নি,module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","চার্ট নিষ্ক্রিয় করা হয়েছে। চার্ট সক্রিয় করার জন্য, <a href=""%1""> এখানে </a> ক্লিক করুন।",module,Magento_Backend
+Last Orders,সর্বশেষ আদেশ,module,Magento_Backend
+Last Search Terms,সর্বশেষ অনুসন্ধান শর্তাবলী,module,Magento_Backend
+Top Search Terms,শীর্ষ অনুসন্ধান শর্তাবলী,module,Magento_Backend
+There are no search keywords.,কোন অনুসন্ধান কীওয়ার্ড আছে।,module,Magento_Backend
+View Statistics For:,দেখার পরিসংখ্যানে জন্য:,module,Magento_Backend
+All Websites,সমস্ত ওয়েবসাইটের,module,Magento_Backend
+Reload Data,পুনরায় লোড করুন ডেটা,module,Magento_Backend
+Browse Files...,ফাইল ব্রাউজ...,module,Magento_Backend
+Magento,Magento,module,Magento_Backend
+Copyright &copy; %1 Magento Commerce Inc. All rights reserved.,কপিরাইট & কপি; % 1 Magento কমার্স Inc. সর্বস্বত্ব সংরক্ষিত।,module,Magento_Backend
+ver. %1,Ver। % 1,module,Magento_Backend
+Magento Admin Panel,Magento অ্যাডমিন প্যানেল,module,Magento_Backend
+Account Setting,অ্যাকাউন্ট সেটিং,module,Magento_Backend
+Customer View,গ্রাহক,module,Magento_Backend
+Sign Out,সাইন আউট,module,Magento_Backend
+About the calendar,ক্যালেন্ডার সম্পর্কে,module,Magento_Backend
+Close,ঘনিষ্ঠ,module,Magento_Backend
+Go Today,আজ যান,module,Magento_Backend
+Previous,আগে,module,Magento_Backend
+Next,পরবর্তী,module,Magento_Backend
+WK,WK,module,Magento_Backend
+Time,সময়,module,Magento_Backend
+Hour,ঘন্টা,module,Magento_Backend
+Minute,মিনিট,module,Magento_Backend
+JavaScript may be disabled in your browser.,জাভাস্ক্রিপ্ট আপনার ব্রাউজারে অক্ষম থাকতে পারে।,module,Magento_Backend
+To use this website you must first enable JavaScript in your browser.,এই ওয়েবসাইট প্রথমে আপনি আপনার ব্রাউজারে JavaScript সক্ষম করতে হবে ব্যবহার করার জন্য।,module,Magento_Backend
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","এটি কেবলমাত্র একটি ডেমো দোকান হয়। আপনি ব্রাউজ করতে পারেন এবং আদেশ লিখুন, কিন্তু কিছুই প্রক্রিয়া করা হবে।",module,Magento_Backend
+Report an Issue,একটি সমস্যা রিপোর্ট,module,Magento_Backend
+Store View:,দোকানের দেখুন:,module,Magento_Backend
+Stores Configuration,দোকান কনফিগারেশন,module,Magento_Backend
+Please confirm scope switching. All data that hasn't been saved will be lost.,সুযোগ সুইচিং নিশ্চিত করুন। সমস্ত ডেটা করেছে যে সংরক্ষিত হয়নি হারিয়ে যাবে।,module,Magento_Backend
+Additional Cache Management,অতিরিক্ত ক্যাশে ম্যানেজমেন্ট,module,Magento_Backend
+Flush Catalog Images Cache,ফ্লাশ ক্যাটালগ চিত্র ক্যাশে,module,Magento_Backend
+Pregenerated product images files,Pregenerated পণ্যের ছবি ফাইল,module,Magento_Backend
+Flush JavaScript/CSS Cache,ফ্লাশ জাভাস্ক্রিপ্ট / CSS ক্যাশে,module,Magento_Backend
+Themes JavaScript and CSS files combined to one file,থিমস জাভাস্ক্রিপ্ট এবং CSS ফাইল একটি ফাইলে মিলিত,module,Magento_Backend
+Flush Static Files Cache,ফ্লাশ স্ট্যাটিক ফাইল ক্যাশে,module,Magento_Backend
+Preprocessed view files and static files,Preprocessed ফাইলগুলি দেখুন এবং স্ট্যাটিক ফাইল,module,Magento_Backend
+Catalog,তালিকা,module,Magento_Backend
+JavaScript/CSS,জাভাস্ক্রিপ্ট / সিএসএস,module,Magento_Backend
+JavaScript/CSS Cache,জাভাস্ক্রিপ্ট / CSS ক্যাশে,module,Magento_Backend
+No records found.,কোন রেকর্ড পাওয়া যায় নি।,module,Magento_Backend
+Images,চিত্র,module,Magento_Backend
+Big Image,বিগ ভাবমূর্তি,module,Magento_Backend
+Thumbnail,ছোট,module,Magento_Backend
+Additional Settings,অতিরিক্ত বিন্যাস,module,Magento_Backend
+records found,রেকর্ড পাওয়া,module,Magento_Backend
+selected,নির্বাচিত,module,Magento_Backend
+per page,প্রতি পৃষ্ঠা,module,Magento_Backend
+Previous page,আগের পৃষ্ঠা,module,Magento_Backend
+of %1,% 1 এর,module,Magento_Backend
+Next page,পরবর্তী পৃষ্ঠা,module,Magento_Backend
+Export to:,রপ্তানি করা:,module,Magento_Backend
+Actions,ক্রিয়াকলাপ,module,Magento_Backend
+Mass Actions,ভর পদক্ষেপ,module,Magento_Backend
+Unselect All,সরিয়ে ফেলুন সব,module,Magento_Backend
+Select Visible,দৃশ্যমান নির্বাচন করুন,module,Magento_Backend
+Unselect Visible,নির্বাচন মুক্ত করুন দৃশ্যমান,module,Magento_Backend
+Changes have been made to this section that have not been saved.,পরিবর্তনগুলি এই বিভাগে যে সংরক্ষিত হয়নি করা হয়েছে।,module,Magento_Backend
+This tab contains invalid data. Please resolve this before saving.,এই ট্যাবের অবৈধ তথ্য আছে। সংরক্ষণ করার পূর্বে এই সমাধান করুন।,module,Magento_Backend
+The information in this tab has been changed.,এই ট্যাবে আপনার তথ্য পরিবর্তন করা হয়েছে।,module,Magento_Backend
+Loading...,লোড হচ্ছে ...,module,Magento_Backend
+We could not detect a size.,আমরা একটি আকার সনাক্ত করতে পারি নি।,module,Magento_Backend
+We don't recognize or support this file extension type.,আমরা স্বীকার বা এই ফাইলের এক্সটেনশন টাইপ সমর্থন করি না।,module,Magento_Backend
+Warning message,সতর্কীকরণ বার্তা,module,Magento_Backend
+This operation can take a long time,এই অপারেশন একটি দীর্ঘ সময় লাগতে পারে,module,Magento_Backend
+Allow everything,সবকিছু মঞ্জুর করুন,module,Magento_Backend
+Magento Admin,Magento এডমিন,module,Magento_Backend
+Global Search,গ্লোবাল অনুসন্ধান,module,Magento_Backend
+Marketing,মার্কেটিং,module,Magento_Backend
+SEO & Search,এসইও ও অনুসন্ধানের,module,Magento_Backend
+User Content,ব্যবহারকারী সামগ্রী,module,Magento_Backend
+Content,সন্তুষ্ট,module,Magento_Backend
+Elements,উপাদানসমূহ,module,Magento_Backend
+Design,নকশা,module,Magento_Backend
+Schedule,তফসিল,module,Magento_Backend
+Settings,সেটিংস,module,Magento_Backend
+Attributes,আরোপ করা,module,Magento_Backend
+Other Settings,অন্যান্য সেটিংস্,module,Magento_Backend
+Data Transfer,তথ্য স্থানান্তর,module,Magento_Backend
+Magento Connect,Magento কানেক্ট,module,Magento_Backend
+Connect Manager,কানেক্ট ম্যানেজার,module,Magento_Backend
+Package Extensions,প্যাকেজ এক্সটেনশানগুলি,module,Magento_Backend
+Tools,সরঞ্জামসমূহ,module,Magento_Backend
+Web Setup Wizard,ওয়েব সেটআপ উইজার্ড,module,Magento_Backend
+Currency,মুদ্রা,module,Magento_Backend
+Communications,যোগাযোগমন্ত্রী,module,Magento_Backend
+Services,সার্ভিস,module,Magento_Backend
+Advanced,অগ্রসর,module,Magento_Backend
+Disable Modules Output,অক্ষম মডিউল আউটপুট,module,Magento_Backend
+Store Email Addresses,"সঞ্চয়, ইমেল ঠিকানাগুলি",module,Magento_Backend
+Custom Email 1,কাস্টম ইমেল 1,module,Magento_Backend
+Sender Email,প্রেরকের ইমেইল,module,Magento_Backend
+Sender Name,প্রেরক নাম,module,Magento_Backend
+Custom Email 2,কাস্টম ইমেল 2,module,Magento_Backend
+General Contact,সাধারণ যোগাযোগ,module,Magento_Backend
+Sales Representative,বিক্রয় প্রতিনিধি,module,Magento_Backend
+Customer Support,গ্রাহক সমর্থন,module,Magento_Backend
+Developer,বিকাশকারী,module,Magento_Backend
+Debug,ডেবাগ্ করা,module,Magento_Backend
+Enabled Template Path Hints for Storefront,সক্ষম করা টেমপ্লেট পথ দোকানে ঢোকার জন্য নির্দেশ,module,Magento_Backend
+Enabled Template Path Hints for Admin,সক্ষম করা টেমপ্লেট পথ এডমিন জন্য নির্দেশ,module,Magento_Backend
+Add Block Names to Hints,সংকেতগুলি অবরোধ নাম যোগ করুন,module,Magento_Backend
+Template Settings,টেমপ্লেট সেটিংস,module,Magento_Backend
+Allow Symlinks,Symlinks অনুমতি দিন,module,Magento_Backend
+Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.,সতর্কবাণী! এই বৈশিষ্ট্যটি সক্ষম করা উৎপাদন পরিবেশের প্রস্তাবিত নয় এই কারণে যে সম্ভাব্য নিরাপত্তা ঝুঁকি প্রতিনিধিত্ব করে।,module,Magento_Backend
+Minify Html,অল্প করা এইচটিএমএল,module,Magento_Backend
+Minification is not applied in developer mode.,Minification বিকাশকারী মোড প্রয়োগ করা হয় না।,module,Magento_Backend
+Translate Inline,অনুবাদ ইনলাইন,module,Magento_Backend
+Enabled for Storefront,দোকানে ঢোকার জন্য সক্ষম,module,Magento_Backend
+Enabled for Admin,এডমিন জন্য সক্ষম,module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","অনুবাদ, ব্লক এবং অন্যান্য আউটপুট ক্যাশে উভয় দোকানে ঢোকার মুখে এবং এডমিন ইনলাইন অনুবাদের জন্য অক্ষম করা উচিত নয়।",module,Magento_Backend
+JavaScript Settings,JavaScript সেটিংস,module,Magento_Backend
+Merge JavaScript Files,মার্জ জাভাস্ক্রিপ্ট ফাইল,module,Magento_Backend
+Enable JavaScript Bundling,জাভাস্ক্রিপ্ট একত্রীকরণ সক্ষম করুন,module,Magento_Backend
+Minify JavaScript Files,অল্প করা জাভাস্ক্রিপ্ট ফাইল,module,Magento_Backend
+CSS Settings,সিএসএস সেটিং,module,Magento_Backend
+Merge CSS Files,মার্জ সিএসএস ফাইল,module,Magento_Backend
+Minify CSS Files,অল্প করা সিএসএস ফাইল,module,Magento_Backend
+Image Processing Settings,ইমেজ প্রসেসিং সেটিংস,module,Magento_Backend
+Image Adapter,ভাবমূর্তি অ্যাডাপ্টার,module,Magento_Backend
+Static Files Settings,স্ট্যাটিক ফাইল সেটিংস,module,Magento_Backend
+Sign Static Files,সাইন ইন করুন স্ট্যাটিক ফাইল,module,Magento_Backend
+Country Options,দেশ বিকল্প,module,Magento_Backend
+Allow Countries,দেশ অনুমতি দিন,module,Magento_Backend
+Default Country,ডিফল্ট দেশ,module,Magento_Backend
+European Union Countries,ইউরোপীয় ইউনিয়ন দেশে,module,Magento_Backend
+Top destinations,সেরা শুরু,module,Magento_Backend
+Locale Options,লোকেল বিকল্প,module,Magento_Backend
+Timezone,সময় অঞ্চল,module,Magento_Backend
+Locale,স্থান,module,Magento_Backend
+First Day of Week,সপ্তাহের প্রথম দিন,module,Magento_Backend
+Weekend Days,উইকেন্ড দিন,module,Magento_Backend
+Store Name,দোকানের নাম,module,Magento_Backend
+Store Phone Number,দোকানের ফোন নম্বর,module,Magento_Backend
+Store Hours of Operation,ক্রিয়াকলাপের স্টোর ঘন্টা,module,Magento_Backend
+Country,দেশ,module,Magento_Backend
+Region/State,অঞ্চল / রাজ্য,module,Magento_Backend
+ZIP/Postal Code,পিন / পোস্টাল কোড,module,Magento_Backend
+City,শহর,module,Magento_Backend
+Street Address,রাস্তার ঠিকানা,module,Magento_Backend
+Street Address Line 2,রাস্তার ঠিকানা লাইন 2,module,Magento_Backend
+VAT Number,ভ্যাট নম্বর,module,Magento_Backend
+Single-Store Mode,একক-স্টোর মোড,module,Magento_Backend
+Enable Single-Store Mode,একক-স্টোর মোড সক্ষম করুন,module,Magento_Backend
+This setting will not be taken into account if system has more than one store view.,যদি সিস্টেম একাধিক দোকান দৃশ্য আছে এই সেটিংটি বিবেচনায় নেয়া করা হবে না।,module,Magento_Backend
+Mail Sending Settings,মেল প্রেরণ সেটিং,module,Magento_Backend
+Disable Email Communications,ইমেল যোগাযোগ নিষ্ক্রিয় করুন,module,Magento_Backend
+Host,নিমন্ত্রণকর্তা,module,Magento_Backend
+Port (25),পোর্ট (25),module,Magento_Backend
+Set Return-Path,রিটার্ন-পাথ সেট,module,Magento_Backend
+Return-Path Email,রিটার্ন-পাথ ইমেইল,module,Magento_Backend
+Admin,অ্যাডমিন,module,Magento_Backend
+Admin User Emails,প্রশাসন ব্যবহারকারী ইমেইল,module,Magento_Backend
+Forgot Password Email Template,পাসওয়ার্ড ভুলে গেছেন ইমেইল টেমপ্লেট,module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","যখন ""ডিফল্ট"" অপশনটি নির্বাচন করা হয় ইমেইল টেমপ্লেট থিম ফলব্যাক উপর ভিত্তি করে চয়ন করা হয়েছে।",module,Magento_Backend
+Forgot and Reset Email Sender,ভুলে গেছেন এবং ইমেল প্রেরকের রিসেট,module,Magento_Backend
+Startup Page,পৃষ্ঠাটিকে শুরুর পৃষ্টা,module,Magento_Backend
+Admin Base URL,এডমিন ভিত্তি URL,module,Magento_Backend
+Use Custom Admin URL,ব্যবহার করুন কাস্টম এডমিন URL টি,module,Magento_Backend
+Custom Admin URL,কাস্টম এডমিন URL টি,module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","নিশ্চিত করুন যে বেস URL সহ '/' (স্ল্যাশ) শেষ হয় করুন, যেমন HTTP: // yourdomain / Magento /",module,Magento_Backend
+Use Custom Admin Path,কাস্টম এডমিন পথ ব্যবহার,module,Magento_Backend
+Custom Admin Path,কাস্টম এডমিন পথ,module,Magento_Backend
+You will have to sign in after you save your custom admin path.,আপনি আপনার কাস্টম অ্যাডমিন পথ সংরক্ষণ করার পরে সাইন ইন করতে হবে।,module,Magento_Backend
+Security,নিরাপত্তা,module,Magento_Backend
+Recovery Link Expiration Period (hours),রিকভারি লিংক মেয়াদপূর্তির সময়কাল (ঘন্টা),module,Magento_Backend
+Please enter a number 1 or greater in this field.,এই ক্ষেত্রে একটি সংখ্যা 1 বা তার অধিক লিখুন দয়া করে।,module,Magento_Backend
+Add Secret Key to URLs,URL গুলিতে সিক্রেট কী যোগ করুন,module,Magento_Backend
+Login is Case Sensitive,লগইন কেস সংবেদনশীল,module,Magento_Backend
+Admin Session Lifetime (seconds),এডমিন সেশন লাইফটাইম (সেকেন্ড),module,Magento_Backend
+Please enter at least 60 and at most 31536000 (one year).,কমপক্ষে 60 এবং সবচেয়ে 31536000 (এক বছর) এ লিখুন দয়া করে।,module,Magento_Backend
+Enable Charts,চার্ট সক্ষম করুন,module,Magento_Backend
+Web,ওয়েব,module,Magento_Backend
+Url Options,ইউআরএল বিকল্প,module,Magento_Backend
+Add Store Code to Urls,URL গুলিতে স্টোর কোড যোগ,module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","এর <strong শৈলী = ""রঙ: লাল"">! সতর্কতা </ strong> এ URL গুলি সংরক্ষণ কোড ব্যবহার করার সময়, কিছু কিছু ক্ষেত্রে সিস্টেমের মধ্যে সঠিকভাবে কাজ করতে পারে স্টোর কোডগুলি ছাড়া URL গুলি তৃতীয় পক্ষ পরিষেবার উল্লিখিত না হলে (যেমন PayPal এর ইত্যাদি)।",module,Magento_Backend
+Auto-redirect to Base URL,ভিত্তি URL করতে স্বয়ংক্রিয়-পুনর্নির্দেশ,module,Magento_Backend
+Search Engine Optimization,সন্ধান যন্ত্র নিখুতকরন,module,Magento_Backend
+Use Web Server Rewrites,ওয়েব সার্ভার নতুন করে লেখা হয় ব্যবহার করুন,module,Magento_Backend
+Base URLs,বেজ URL গুলি,module,Magento_Backend
+Base URL,ভিত্তি URL,module,Magento_Backend
+Specify URL or {{base_url}} placeholder.,URL বা {{base_url}} স্থানধারক উল্লেখ করুন।,module,Magento_Backend
+Base Link URL,বেজ লিঙ্ক URL,module,Magento_Backend
+Base URL for Static View Files,স্ট্যাটিক দেখুন ফাইলের জন্য ভিত্তি URL,module,Magento_Backend
+May be empty or start with {{unsecure_base_url}} placeholder.,খালি হতে পারে অথবা {{unsecure_base_url}} স্থানধারক সহ শুরু হতে পারে।,module,Magento_Backend
+Base URL for User Media Files,ব্যবহারকারী মিডিয়া ফাইলগুলির জন্য ভিত্তি URL,module,Magento_Backend
+Base URLs (Secure),বেজ URL গুলি (নিরাপদ),module,Magento_Backend
+Secure Base URL,সিকিউর ভিত্তি URL,module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","URL বা {{base_url}}, অথবা {{unsecure_base_url}} স্থানধারক উল্লেখ করুন।",module,Magento_Backend
+Secure Base Link URL,সিকিউর বেজ লিঙ্ক URL,module,Magento_Backend
+Secure Base URL for Static View Files,স্ট্যাটিক দেখুন ফাইলের জন্য সিকিউর ভিত্তি URL,module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","খালি হতে পারে অথবা {{secure_base_url}}, অথবা {{unsecure_base_url}} স্থানধারক সহ শুরু হতে পারে।",module,Magento_Backend
+Secure Base URL for User Media Files,ব্যবহারকারী মিডিয়া ফাইলগুলির জন্য সিকিউর ভিত্তি URL,module,Magento_Backend
+Use Secure URLs on Storefront,দোকানে ঢোকার উপর সিকিউর URL গুলি ব্যবহার,module,Magento_Backend
+Use Secure URLs in Admin,এডমিন নিরাপদ URL গুলি ব্যবহার,module,Magento_Backend
+Enable HTTP Strict Transport Security (HSTS),HTTP- র সক্ষম কঠোর পরিবহন নিরাপত্তা (HSTS),module,Magento_Backend
+Upgrade Insecure Requests,অসুরক্ষিত অনুরোধ আপগ্রেড,module,Magento_Backend
+Offloader header,হেডার Offloader,module,Magento_Backend
+Default Pages,ডিফল্ট পেজ,module,Magento_Backend
+Default Web URL,ডিফল্ট ওয়েব URL টি,module,Magento_Backend
+Default No-route URL,ডিফল্ট কোন-রুট URL টি,module,Magento_Backend
+Session Validation Settings,সেশন বৈধতা যাচাই সেটিংসের,module,Magento_Backend
+Validate REMOTE_ADDR,যাচাই REMOTE_ADDR,module,Magento_Backend
+Validate HTTP_VIA,যাচাই HTTP_VIA,module,Magento_Backend
+Validate HTTP_X_FORWARDED_FOR,যাচাই HTTP_X_FORWARDED_FOR,module,Magento_Backend
+Validate HTTP_USER_AGENT,যাচাই HTTP_USER_AGENT,module,Magento_Backend
+Use SID on Storefront,দোকানে ঢোকার উপর জন্য SID ব্যবহার করুন,module,Magento_Backend
+Allows customers to stay logged in when switching between different stores.,মঞ্জুর করে গ্রাহকদের যখন বিভিন্ন দোকানে মধ্যে স্যুইচ লগ ইন থাকার।,module,Magento_Backend
+Cache Type,ক্যাশে প্রকার,module,Magento_Backend
+Description,বিবরণ,module,Magento_Backend
+Tags,ট্যাগ,module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<H1 বর্গ = ""পৃষ্ঠা-শিরোনাম""> 404 ত্রুটি </ h1> থেকে <p> যে পৃষ্ঠাটি পাওয়া যায় নি। </ P &>",module,Magento_Backend
+Community Edition,কমিউনিটি এডিশন,module,Magento_Backend
+Default Theme,ডিফল্ট থিম,module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","কোনো মূল্যই উল্লেখিত থাকে, সিস্টেম ডিফল্ট ব্যবহার করা হয়। সিস্টেম ডিফল্ট তৃতীয় পক্ষের এক্সটেনশন দ্বারা পরিবর্তিত হতে পারে।",module,Magento_Backend
+Applied Theme,ফলিত থিম,module,Magento_Backend
+Design Rule,ডিজাইন রুল,module,Magento_Backend
+User Agent Rules,ব্যবহারকারী এজেন্ট বিধি,module,Magento_Backend
+Pagination,পত্রাঙ্কন,module,Magento_Backend
+How many links to display at once.,কিভাবে লিঙ্ক একযোগে প্রদর্শন করে।,module,Magento_Backend
+Pagination Frame,পত্রাঙ্কন ফ্রেম,module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","বর্তমান ফ্রেম অবস্থান পরম পৃষ্ঠাগুলি কাভার করে না, এটা বর্তমান অবস্থান প্লাস / মাইনাস এই মান লিংক রেন্ডার করে।",module,Magento_Backend
+Pagination Frame Skip,পত্রাঙ্কন ফ্রেম তে,module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","পূর্ববর্তী পৃষ্ঠাগুলির জন্য বিকল্প টেক্সট পত্রাঙ্কন মেনুতে লিঙ্ক। খালি, ডিফল্ট তীর ইমেজ ব্যবহার করা হয়।",module,Magento_Backend
+Anchor Text for Previous,পূর্ববর্তী জন্য অ্যাঙ্কর শিরোনাম,module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","পরবর্তী পৃষ্ঠাগুলির জন্য বিকল্প টেক্সট পত্রাঙ্কন মেনুতে লিঙ্ক। খালি, ডিফল্ট তীর ইমেজ ব্যবহার করা হয়।",module,Magento_Backend
+Anchor Text for Next,পরবর্তী জন্য অ্যাঙ্কর শিরোনাম,module,Magento_Backend
+Theme Name,থিমের নাম,module,Magento_Backend
+System Backup,সিস্টেম ব্যাকআপ,module,Magento_Backup
+Database and Media Backup,ডাটাবেজ এবং মিডিয়া ব্যাকআপ,module,Magento_Backup
+Database Backup,ডাটাবেজ ব্যাকআপ,module,Magento_Backup
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","সংরক্ষণাগার উইন্ডোজ সিস্টেমে <a href=""%1"">% 2 </a> এর সাথে ডিকম্প্রেস করা হতে পারে।",module,Magento_Backup
+You need more permissions to activate maintenance mode right now.,আপনি আরও অনুমতির প্রয়োজন এখন রক্ষণাবেক্ষণ সক্রিয় করতে।,module,Magento_Backup
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","ব্যাকআপ তৈরি করতে হলে, নির্বাচন থেকে সরিয়ে ফেলুন দয়া করে ""রক্ষণাবেক্ষণ মোডে দোকান রাখুন"" বা আপনার অনুমতি আপডেট করুন।",module,Magento_Backup
+Something went wrong while putting your store into maintenance mode.,যখন রক্ষণাবেক্ষণ মোডে আপনার দোকান নির্বাণ কিছু ভুল হয়েছে।,module,Magento_Backup
+You need more free space to create a backup.,আপনাকে একটি ব্যাকআপ তৈরি করতে আরো মুক্ত স্থান প্রয়োজন।,module,Magento_Backup
+You need more permissions to create a backup.,আপনাকে একটি ব্যাকআপ তৈরি করতে আরও অনুমতির প্রয়োজন।,module,Magento_Backup
+We can't create the backup right now.,আমরা ব্যাকআপ ডান এখন তৈরি করতে পারবেন না।,module,Magento_Backup
+Backups,ব্যাকআপ,module,Magento_Backup
+System,পদ্ধতি,module,Magento_Backup
+Tools,সরঞ্জামসমূহ,module,Magento_Backup
+Backup,ব্যাকআপ,module,Magento_Backup
+We can't delete one or more backups.,আমরা এক বা একাধিক ব্যাকআপ মুছতে পারবেন না।,module,Magento_Backup
+failed,ব্যর্থ,module,Magento_Backup
+successful,সফল,module,Magento_Backup
+You deleted the selected backup(s).,আপনার কাছে নির্বাচিত ব্যাকআপ (গুলি) মোছা হয়েছে।,module,Magento_Backup
+Can't load snapshot archive,স্ন্যাপশট সংরক্ষণাগার লোড করা যাবে না,module,Magento_Backup
+Please correct the password.,পাসওয়ার্ড সংশোধন করুন।,module,Magento_Backup
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","রোলব্যাক সম্পূর্ণ করার জন্য, নির্বাচন থেকে সরিয়ে ফেলুন দয়া করে ""রক্ষণাবেক্ষণ মোডে দোকান রাখুন"" বা আপনার অনুমতি আপডেট করুন।",module,Magento_Backup
+We can't find the backup file.,আমরা ব্যাকআপ ফাইল খুঁজে পাচ্ছি না।,module,Magento_Backup
+We can't connect to the FTP right now.,আমরা এই মুহূর্তে এফটিপি সংযোগ করতে পারবেন না।,module,Magento_Backup
+Failed to validate FTP.,FTP- র যাচাই করতে ব্যর্থ হয়েছে।,module,Magento_Backup
+You need more permissions to perform a rollback.,আপনি আরও অনুমতির প্রয়োজন রোলব্যাক সঞ্চালন।,module,Magento_Backup
+Failed to rollback.,রোলব্যাক করতে ব্যর্থ হয়েছে।,module,Magento_Backup
+Database,ডেটাবেস,module,Magento_Backup
+Database and Media,ডাটাবেজ এবং মিডিয়া,module,Magento_Backup
+System (excluding Media),সিস্টেম (ব্যতীত মিডিয়া),module,Magento_Backup
+You created the system backup.,সিস্টেম ব্যাকআপ তৈরি করা হয়েছে।,module,Magento_Backup
+You created the system backup (excluding media).,সিস্টেম ব্যাকআপ (ব্যতীত মিডিয়া) তৈরি করা হয়েছে।,module,Magento_Backup
+You created the database and media backup.,আপনি ডাটাবেস এবং মিডিয়া ব্যাকআপ তৈরি করা হয়েছে।,module,Magento_Backup
+You created the database backup.,আপনি ডাটাবেস ব্যাকআপ তৈরি করা হয়েছে।,module,Magento_Backup
+Please correct the order of creation for a new backup.,একটি নতুন ব্যাকআপ জন্য সৃষ্টি ক্রম সংশোধন করুন।,module,Magento_Backup
+The backup file does not exist.,ব্যাকআপ ফাইল বিদ্যমান নেই।,module,Magento_Backup
+The backup file path was not specified.,ব্যাকআপ ফাইল পাথ উল্লেখ করা হয়নি।,module,Magento_Backup
+"The backup file ""%1"" does not exist.","ব্যাকআপ ফাইল ""% 1"" বিদ্যমান নেই।",module,Magento_Backup
+"Sorry, but we cannot read from or write to backup file ""%1"".","দুঃখিত, কিন্তু আমরা থেকে পড়া বা ব্যাকআপ ফাইল ""% 1"" লিখতে পারে না।",module,Magento_Backup
+The backup file handler was unspecified.,ব্যাকআপ ফাইল হ্যান্ডলার অনির্দিষ্ট ছিল।,module,Magento_Backup
+"Something went wrong while writing to the backup file ""%1"".","যখন ব্যাকআপ ফাইল ""% 1"" লেখা কিছু ভুল হয়েছে।",module,Magento_Backup
+We can't save the Cron expression.,আমরা ক্রন অভিব্যক্তি সংরক্ষণ করতে পারবেন না।,module,Magento_Backup
+"You will lose any data created since the backup was made, including admin users, customers and orders.","আপনার তৈরি করা থেকে ব্যাকআপ তৈরি করা হয়েছিল অ্যাডমিন ব্যবহারকারী, গ্রাহক এবং আদেশ সহ যেকোন ডেটা নষ্ট হয়ে যাবে।",module,Magento_Backup
+Are you sure you want to continue?,আপনি কি চালিয়ে যেতে চান?,module,Magento_Backup
+This may take a few moments.,এটি কয়েক মিনিট সময় লাগতে পারে.,module,Magento_Backup
+Be sure your store is in maintenance mode during backup.,নিশ্চিত করুন যে আপনার দোকান ব্যাকআপ সময় রক্ষণাবেক্ষণ মোডে রয়েছে হতে।,module,Magento_Backup
+Backup Name,ব্যাকআপ নাম,module,Magento_Backup
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","এই ক্ষেত্রে কেবলমাত্র অক্ষর (az বা জেড), সংখ্যা (0-9) অথবা শূণ্যস্থান ব্যবহার করুন।",module,Magento_Backup
+Maintenance mode,রক্ষণাবেক্ষণ মোডে,module,Magento_Backup
+Please put your store into maintenance mode during backup.,দয়া করে ব্যাকআপ সময় রক্ষণাবেক্ষণ মোডে আপনার দোকান দিলেন।,module,Magento_Backup
+Exclude,বর্জন করা,module,Magento_Backup
+Exclude media folder from backup,ব্যাকআপ থেকে মিডিয়া ফোল্ডারের বাদ দিন,module,Magento_Backup
+Please enter the password to confirm rollback.,রোলব্যাক নিশ্চিত করতে পাসওয়ার্ড দিন।,module,Magento_Backup
+This action cannot be undone.,এই ক্রিয়াটি পূর্বাবস্থায় ফেরানো যাবে না.,module,Magento_Backup
+User Password,ব্যবহারকারী পাসওয়ার্ড,module,Magento_Backup
+Please put your store into maintenance mode during rollback processing.,দয়া করে রোলব্যাক প্রক্রিয়াকরণের সময় রক্ষণাবেক্ষণ মোডে আপনার দোকান দিলেন।,module,Magento_Backup
+FTP,FTP- র,module,Magento_Backup
+Use FTP Connection,ব্যবহারের FTP কানেকশন,module,Magento_Backup
+FTP credentials,FTP- র পরিচয়পত্র,module,Magento_Backup
+FTP Host,FTP হোস্টে,module,Magento_Backup
+FTP Login,FTP- র লগইন,module,Magento_Backup
+FTP Password,FTP- র পাসওয়ার্ড,module,Magento_Backup
+Magento root directory,Magento রুট ডিরেক্টরি,module,Magento_Backup
+Create Backup,ব্যাকআপ তৈরি,module,Magento_Backup
+Rollback,রোলব্যাক,module,Magento_Backup
+Scheduled Backup Settings,তফশিলি ব্যাকআপ সেটিংস,module,Magento_Backup
+Enable Scheduled Backup,নির্ধারিত ব্যাকআপ সক্ষম করুন,module,Magento_Backup
+Backup Type,ব্যাকআপ প্রকার,module,Magento_Backup
+Start Time,সময় শুরু,module,Magento_Backup
+Frequency,ফ্রিকোয়েন্সি,module,Magento_Backup
+Maintenance Mode,রক্ষণাবেক্ষণ মোড,module,Magento_Backup
+Delete,মুছে ফেলা,module,Magento_Backup
+Are you sure you want to delete the selected backup(s)?,আপনি কি নির্বাচিত ব্যাকআপ (গুলি) মুছে দেওয়ার বিষয়ে নিশ্চিত?,module,Magento_Backup
+Time,সময়,module,Magento_Backup
+Name,নাম,module,Magento_Backup
+Size(bytes),ফাইলের আকার (বাইটস),module,Magento_Backup
+Type,আদর্শ,module,Magento_Backup
+Download,ডাউনলোড,module,Magento_Backup
+Action,কর্ম,module,Magento_Backup
+Banners,ব্যানার,module,Magento_Banner
+Add Banner,ব্যানার যোগ করুন,module,Magento_Banner
+Save Banner,সংরক্ষণ করুন ব্যানার,module,Magento_Banner
+Delete Banner,ব্যানার ডিলিট,module,Magento_Banner
+Save and Continue Edit,সংরক্ষণ করুন এবং সম্পাদনা করুন চালিয়ে,module,Magento_Banner
+New Banner,নতুন ব্যানার,module,Magento_Banner
+Content,সন্তুষ্ট,module,Magento_Banner
+Default Content,ডিফল্ট সামগ্রী,module,Magento_Banner
+No Default Content,কোনো ডিফল্ট বিষয়বস্তু,module,Magento_Banner
+Banner Default Content for All Store Views,এর জন্য সকল স্টোর দেখেছে ব্যানার ডিফল্ট সামগ্রী,module,Magento_Banner
+Store View Specific Content,দোকানের দেখুন নির্দিষ্ট সামগ্রীর,module,Magento_Banner
+Use Default,ডিফল্ট ব্যবহার করুন,module,Magento_Banner
+Related Promotions,সংশ্লিষ্ট প্রচার,module,Magento_Banner
+ID,আইডি,module,Magento_Banner
+Rule,নিয়ম,module,Magento_Banner
+Start Date,শুরুর তারিখ,module,Magento_Banner
+End Date,শেষ তারিখ,module,Magento_Banner
+Status,অবস্থা,module,Magento_Banner
+Banner Properties,ব্যানার প্রোপার্টি,module,Magento_Banner
+Banner Name,ব্যানার নাম,module,Magento_Banner
+Active,সক্রিয়,module,Magento_Banner
+Inactive,নিষ্ক্রিয়,module,Magento_Banner
+Applies To,প্রযোজ্য,module,Magento_Banner
+Any Banner Type,কোন ব্যানার প্রকার,module,Magento_Banner
+Specified Banner Types,নির্দিষ্ট ব্যানার প্রকারভেদ,module,Magento_Banner
+Specify Types,প্রকারভেদ উল্লেখ করুন,module,Magento_Banner
+Banner Information,ব্যানার তথ্য,module,Magento_Banner
+Banner,পতাকা,module,Magento_Banner
+Banner Type,ব্যানার প্রকার,module,Magento_Banner
+Visibility,দৃষ্টিপাত,module,Magento_Banner
+Delete,মুছে ফেলা,module,Magento_Banner
+Are you sure you want to delete these banners?,এইসব ব্যানার মুছে ফেলতে চান আপনি কি নিশ্চিত?,module,Magento_Banner
+Related Banners,সম্পর্কিত ব্যানার,module,Magento_Banner
+Position,অবস্থান,module,Magento_Banner
+This rule no longer exists.,এই নিয়ম আর বিদ্যমান নেই।,module,Magento_Banner
+This banner does not exist.,এই ব্যানার অস্তিত্ব নেই।,module,Magento_Banner
+You deleted the banner.,আপনি ব্যানার মোছা হয়েছে।,module,Magento_Banner
+Something went wrong while deleting banner data. Please review the action log and try again.,যখন ব্যানার ডেটা না মুছে কিছু ভুল হয়েছে। কর্ম লগ পর্যালোচনা এবং আবার চেষ্টা করুন।,module,Magento_Banner
+We cannot find a banner to delete.,আমরা একটি ব্যানার মুছে ফেলতে খুঁজে পাচ্ছি না।,module,Magento_Banner
+This banner no longer exists.,এই ব্যানার আর বিদ্যমান নেই।,module,Magento_Banner
+Edit Banner,ব্যানার সম্পাদনা,module,Magento_Banner
+Please select a banner(s).,দয়া করে একটি ব্যানার (গুলি) নির্বাচন করুন।,module,Magento_Banner
+You deleted %1 record(s).,আপনার% 1 রেকর্ড (গুলি) মোছা হয়েছে।,module,Magento_Banner
+Something went wrong while mass-deleting banners. Please review the action log and try again.,যখন ব্যানার ভর-মোছার কিছু ভুল হয়েছে। কর্ম লগ পর্যালোচনা এবং আবার চেষ্টা করুন।,module,Magento_Banner
+You saved the banner.,আপনি ব্যানার সংরক্ষণ করা হয়েছে।,module,Magento_Banner
+We cannot save the banner.,আমরা ব্যানার সংরক্ষণ করতে পারবেন না।,module,Magento_Banner
+Please enter a name.,একটি নাম লিখুন দয়া করে।,module,Magento_Banner
+Please specify default content for at least one store view.,অন্তত একটি দোকান দেখার জন্য ডিফল্ট সামগ্রী উল্লেখ করুন।,module,Magento_Banner
+-- None --,- কোনটি -,module,Magento_Banner
+Error,এরর,module,Magento_Banner
+Related Cart Price Rules,সম্পর্কিত কার্ট দাম বিধি,module,Magento_Banner
+Related Catalog Price Rules,সম্পর্কিত ক্যাটালগ দাম বিধি,module,Magento_Banner
+Content Area,উপাদানের স্থান,module,Magento_Banner
+Footer,পেয়াদা,module,Magento_Banner
+Header,শিরোলেখ,module,Magento_Banner
+Left Column,বাম কলামে,module,Magento_Banner
+Right Column,ডানদিকের কলামটি,module,Magento_Banner
+Manage Banners,ব্যানার পরিচালনা,module,Magento_Banner
+Banner Rotator,ব্যানার চক্রকার,module,Magento_Banner
+Displays Specified or Promotion Banners,প্রদর্শণ নির্দিষ্ট প্রোমোশন ব্যানার,module,Magento_Banner
+Banners to Display,ব্যানার প্রদর্শনের জন্য,module,Magento_Banner
+Specified Banners,নির্দিষ্ট ব্যানার,module,Magento_Banner
+Shopping Cart Promotions Related,শপিং কার্ট প্রচার সম্পর্কিত,module,Magento_Banner
+Catalog Promotions Related,ক্যাটালগ প্রচার সম্পর্কিত,module,Magento_Banner
+Restrict by Banner Types,ব্যানার প্রকারভেদ অনুসারে সীমাবদ্ধ,module,Magento_Banner
+Rotation Mode,ঘূর্ণন মোড,module,Magento_Banner
+Display all instead of rotating,সব পরিবর্তে আবর্তিত প্রদর্শন,module,Magento_Banner
+"One at the time, Random","সময়ে এক, আম",module,Magento_Banner
+"One at the time, Series","সময়ে এক, সিরিজ",module,Magento_Banner
+"One at the time, Shuffle","সময়ে এক, এলোমেলো",module,Magento_Banner
+Specify Banners,ব্যানার উল্লেখ করুন,module,Magento_Banner
+Banner Block Template,ব্যানার ব্লক টেমপ্লেট,module,Magento_Banner
+Banner Inline Template,ব্যানার ইনলাইন টেমপ্লেট,module,Magento_Banner
+Country,দেশ,module,Magento_Braintree
+Allowed Credit Card Types,মঞ্জুরিপ্রাপ্ত ক্রেডিট কার্ড প্রকারভেদ,module,Magento_Braintree
+Add Rule,বিধি যুক্ত করুন,module,Magento_Braintree
+Braintree Settlement Report,ব্রেংট্রী সেটেলমেন্ট প্রতিবেদন,module,Magento_Braintree
+"Sorry, but something went wrong","দুঃখিত, কিন্তু কিছু ভুল হয়েছে",module,Magento_Braintree
+We can't initialize checkout.,আমরা চেকআউট আরম্ভ করতে পারবে না।,module,Magento_Braintree
+No authorization transaction to proceed capture.,কোন অনুমোদন লেনদেন ক্যাপচার এগিয়ে যেতে।,module,Magento_Braintree
+Braintree error response.,ব্রেংট্রী ত্রুটি প্রতিক্রিয়া।,module,Magento_Braintree
+Payment method nonce can't be retrieved.,অর্থ প্রদানের পদ্ধতি আপাতত উদ্ধার করা যাচ্ছে না।,module,Magento_Braintree
+Wrong transaction status,ভুল লেনদেনের অবস্থা,module,Magento_Braintree
+Authorize,অনুমোদন করা,module,Magento_Braintree
+Authorize and Capture,অনুমোদন এবং ক্যাপচার,module,Magento_Braintree
+--Please Select--,--অনুগ্রহ করে নির্বাচন করুন--,module,Magento_Braintree
+Please agree to all the terms and conditions before placing the order.,অর্ডার স্থাপন করার আগে সমস্ত শর্তাবলী সাথে সম্মত হন করুন।,module,Magento_Braintree
+Credit Card Type,ক্রেডিট কার্ড প্রকার,module,Magento_Braintree
+Credit Card Number,ক্রেডিট কার্ড নম্বর,module,Magento_Braintree
+"Please, enter valid Credit Card Number",দয়া করে প্রবেশ বৈধ ক্রেডিট কার্ড নম্বর,module,Magento_Braintree
+Expiration Date,মেয়াদ উত্তীর্ণের তারিখ,module,Magento_Braintree
+"Please, enter valid Expiration Date",দয়া করে প্রবেশ বৈধ মেয়াদ শেষের তারিখ,module,Magento_Braintree
+Card Verification Number,কার্ড যাচাই সংখ্যা,module,Magento_Braintree
+"Please, enter valid Card Verification Number",দয়া করে প্রবেশ বৈধ কার্ড যাচাই সংখ্যা,module,Magento_Braintree
+ending,শেষ,module,Magento_Braintree
+expires,মেয়াদ শেষ,module,Magento_Braintree
+Are you sure you want to delete this PayPal account,আপনি কি এই PayPal অ্যাকাউন্ট মুছে দেওয়ার বিষয়ে নিশ্চিত,module,Magento_Braintree
+PayPal Account,PayPal অ্যাকাউন্ট,module,Magento_Braintree
+PayPal Logo,পেপ্যাল ​​লোগো,module,Magento_Braintree
+Actions,ক্রিয়াকলাপ,module,Magento_Braintree
+Delete,মুছে ফেলা,module,Magento_Braintree
+Credit Card Information,ক্রেডিট কার্ড তথ্য,module,Magento_Braintree
+What is this?,এটা কি?,module,Magento_Braintree
+Save for later use.,পরে ব্যবহার করার জন্য সংরক্ষণ করুন।,module,Magento_Braintree
+Place Order,প্লেস আদেশ,module,Magento_Braintree
+This payment is not available,এই অর্থ প্রদানের উপলব্ধ নয়,module,Magento_Braintree
+MM,এম এম,module,Magento_Braintree
+YY,YY,module,Magento_Braintree
+Please try again with another form of payment.,পেমেন্ট অন্য ফর্ম দিয়ে আবার চেষ্টা করুন।,module,Magento_Braintree
+"Sorry, but something went wrong.","দুঃখিত, কিন্তু কিছু ভুল হয়েছে।",module,Magento_Braintree
+Payment,পারিশ্রমিক,module,Magento_Braintree
+Braintree,ব্রেংট্রী,module,Magento_Braintree
+Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.,আপনার Magento দোকান ক্রেডিট / ডেবিট কার্ড এবং পেপ্যালের গ্রহণ করুন। <br/> কোন সেটআপ বা মাসিক ফি এবং আপনার গ্রাহকদের ক্রয় সম্পন্ন করার জন্য আপনার দোকান রাখেনি।,module,Magento_Braintree
+Enable this Solution,এই সমাধান সক্ষম করুন,module,Magento_Braintree
+Enable PayPal through Braintree,ব্রেংট্রী মাধ্যমে পেপ্যাল ​​সক্ষম করুন,module,Magento_Braintree
+Vault Enabled,ভল্টের সক্ষমিত,module,Magento_Braintree
+Basic Braintree Settings,বেসিক ব্রেংট্রী সেটিং,module,Magento_Braintree
+Title,খেতাব,module,Magento_Braintree
+Environment,পরিবেশ,module,Magento_Braintree
+Payment Action,পেমেন্ট অ্যাকশন,module,Magento_Braintree
+Merchant ID,মার্চেন্ট আইডি,module,Magento_Braintree
+Public Key,সর্বজনীন কী,module,Magento_Braintree
+Private Key,ব্যক্তিগত কী,module,Magento_Braintree
+Advanced Braintree Settings,উন্নত ব্রেংট্রী সেটিং,module,Magento_Braintree
+Vault Title,ভল্টের শিরোনাম,module,Magento_Braintree
+Merchant Account ID,মার্চেন্ট একাউন্ট আইডি,module,Magento_Braintree
+Advanced Fraud Protection,উন্নত জালিয়াতি সুরক্ষা,module,Magento_Braintree
+Kount Merchant ID,Kount মার্চেন্ট আইডি,module,Magento_Braintree
+Debug,ডেবাগ্ করা,module,Magento_Braintree
+CVV Verification,CVV যাচাইকরণ,module,Magento_Braintree
+Credit Card Types,ক্রেডিট কার্ড প্রকারভেদ,module,Magento_Braintree
+Sort Order,সজ্জাক্রম,module,Magento_Braintree
+Country Specific Settings,দেশের নির্দিষ্ট সেটিংস,module,Magento_Braintree
+Payment from Applicable Countries,প্রযোজ্য দেশ থেকে পেমেন্ট,module,Magento_Braintree
+Payment from Specific Countries,নির্দিষ্ট কিছু দেশে থেকে পেমেন্ট,module,Magento_Braintree
+Country Specific Credit Card Types,দেশের নির্দিষ্ট ক্রেডিট কার্ড প্রকারভেদ,module,Magento_Braintree
+PayPal through Braintree,ব্রেংট্রী মাধ্যমে পেপ্যাল,module,Magento_Braintree
+Override Merchant Name,ওভাররাইড ব্যবসায়ীর নাম,module,Magento_Braintree
+Require Customer's Billing Address,গ্রাহকের বিলিং ঠিকানা দরকার,module,Magento_Braintree
+Allow to Edit Shipping Address Entered During Checkout on PayPal Side,শিপিং ঠিকানা পেপ্যাল ​​সাইড উপর চেকআউট সময় প্রবেশ করেছেন সম্পাদনা করার অনুমতি দিন,module,Magento_Braintree
+Display on Shopping Cart,শপিং কার্ট দেখান,module,Magento_Braintree
+Skip Order Review,কর অর্ডার পর্যালোচনা,module,Magento_Braintree
+3D Secure Verification Settings,3D যাচাইকরণের সেটিংসে নিরাপদ,module,Magento_Braintree
+3D Secure Verification,3D সিকিউর যাচাইকরণ,module,Magento_Braintree
+Threshold Amount,বিক্রেতার পরিমাণ,module,Magento_Braintree
+Verify for Applicable Countries,প্রযোজ্য দেশ যাচাই,module,Magento_Braintree
+Verify for Specific Countries,নির্দিষ্ট কিছু দেশে যাচাই,module,Magento_Braintree
+Dynamic Descriptors,ডায়নামিক বর্ণনাকারী,module,Magento_Braintree
+Name,নাম,module,Magento_Braintree
+Phone,ফোন,module,Magento_Braintree
+URL,URL টি,module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","ক্রমে ফলাফলগুলি পেতে ফিল্টার প্রয়োগ করুন। শুধু প্রথম 100 রেকর্ড গ্রিড প্রদর্শিত হবে, আপনি .csv বিন্যাসে রিপোর্টের পূর্ণ সংস্করণ ডাউনলোড করতে সক্ষম হবে।",module,Magento_Braintree
+Select...,নির্বাচন করুন ...,module,Magento_Braintree
+Status,অবস্থা,module,Magento_Braintree
+Transaction Type,লেনদেন প্রকার,module,Magento_Braintree
+Payment Type,শোধের ধরণ,module,Magento_Braintree
+PayPal Payment ID,পেপ্যাল ​​আইডি,module,Magento_Braintree
+Created At,এ নির্মিত,module,Magento_Braintree
+Transaction ID,লেনদেন নাম্বার,module,Magento_Braintree
+Order ID,অর্ডার ID,module,Magento_Braintree
+Type,আদর্শ,module,Magento_Braintree
+Amount,পরিমাণ,module,Magento_Braintree
+Settlement Code,সেটেলমেন্ট কোড,module,Magento_Braintree
+Settlement Response Text,সেটেলমেন্ট রেসপন্স টেক্সট,module,Magento_Braintree
+Refund Ids,রিফান্ড Id গুলি,module,Magento_Braintree
+Settlement Batch ID,সেটেলমেন্ট ব্যাচ আইডি,module,Magento_Braintree
+Currency,মুদ্রা,module,Magento_Braintree
+Country,দেশ,module,Magento_BraintreeTwo
+Allowed Credit Card Types,মঞ্জুরিপ্রাপ্ত ক্রেডিট কার্ড প্রকারভেদ,module,Magento_BraintreeTwo
+Add Rule,বিধি যুক্ত করুন,module,Magento_BraintreeTwo
+Braintree Settlement Report,ব্রেংট্রী সেটেলমেন্ট প্রতিবেদন,module,Magento_BraintreeTwo
+"Sorry, but something went wrong","দুঃখিত, কিন্তু কিছু ভুল হয়েছে",module,Magento_BraintreeTwo
+We can\'t initialize checkout.,আমরা \ 'টি চেকআউট আরম্ভ করতে পারেন।,module,Magento_BraintreeTwo
+No authorization transaction to proceed capture.,কোন অনুমোদন লেনদেন ক্যাপচার এগিয়ে যেতে।,module,Magento_BraintreeTwo
+Braintree error response.,ব্রেংট্রী ত্রুটি প্রতিক্রিয়া।,module,Magento_BraintreeTwo
+Payment method nonce can\'t be retrieved.,অর্থ প্রদানের পদ্ধতি আপাতত \ পারবে টন প্রাপ্ত করা।,module,Magento_BraintreeTwo
+Wrong transaction status,ভুল লেনদেনের অবস্থা,module,Magento_BraintreeTwo
+Authorize,অনুমোদন করা,module,Magento_BraintreeTwo
+Authorize and Capture,অনুমোদন এবং ক্যাপচার,module,Magento_BraintreeTwo
+--Please Select--,--অনুগ্রহ করে নির্বাচন করুন--,module,Magento_BraintreeTwo
+Please agree to all the terms and conditions before placing the order.,অর্ডার স্থাপন করার আগে সমস্ত শর্তাবলী সাথে সম্মত হন করুন।,module,Magento_BraintreeTwo
+Paypal account,PayPal অ্যাকাউন্ট,module,Magento_BraintreeTwo
+Coinbase account,কয়েনবেস একাউন্ট,module,Magento_BraintreeTwo
+Europe bank account,ইউরোপ ব্যাঙ্ক অ্যাকাউন্ট,module,Magento_BraintreeTwo
+Credit card,ক্রেডিট কার্ড,module,Magento_BraintreeTwo
+Apple pay card,অ্যাপল বেতন কার্ড,module,Magento_BraintreeTwo
+Android pay card,অ্যান্ড্রয়েড বেতন কার্ড,module,Magento_BraintreeTwo
+Authorization expired,অনুমোদনের মেয়াদ শেষ হওয়ার,module,Magento_BraintreeTwo
+Authorizing,অনুমোদিত,module,Magento_BraintreeTwo
+Authorized,অনুমোদিত,module,Magento_BraintreeTwo
+Gateway rejected,গেটওয়ে প্রত্যাখ্যাত,module,Magento_BraintreeTwo
+Failed,ব্যর্থ,module,Magento_BraintreeTwo
+Processor declined,প্রসেসর অস্বীকার,module,Magento_BraintreeTwo
+Settled,স্থায়ী,module,Magento_BraintreeTwo
+Settling,প্রতিষ্ঠাপন,module,Magento_BraintreeTwo
+Submitted for settlement,বন্দোবস্ত জন্য জমা,module,Magento_BraintreeTwo
+Voided,অগ্রাহ্য,module,Magento_BraintreeTwo
+Unrecognized,অস্বীকৃত,module,Magento_BraintreeTwo
+Settlement declined,সেটেলমেন্ট অস্বীকার,module,Magento_BraintreeTwo
+Settlement pending,সেটেলমেন্ট মুলতুবি,module,Magento_BraintreeTwo
+Settlement confirmed,সেটেলমেন্ট নিশ্চিত,module,Magento_BraintreeTwo
+Sale,বিক্রয়,module,Magento_BraintreeTwo
+Credit,ধার,module,Magento_BraintreeTwo
+Credit Card Type,ক্রেডিট কার্ড প্রকার,module,Magento_BraintreeTwo
+Credit Card Number,ক্রেডিট কার্ড নম্বর,module,Magento_BraintreeTwo
+"Please, enter valid Credit Card Number",দয়া করে প্রবেশ বৈধ ক্রেডিট কার্ড নম্বর,module,Magento_BraintreeTwo
+Expiration Date,মেয়াদ উত্তীর্ণের তারিখ,module,Magento_BraintreeTwo
+"Please, enter valid Expiration Date",দয়া করে প্রবেশ বৈধ মেয়াদ শেষের তারিখ,module,Magento_BraintreeTwo
+Card Verification Number,কার্ড যাচাই সংখ্যা,module,Magento_BraintreeTwo
+"Please, enter valid Card Verification Number",দয়া করে প্রবেশ বৈধ কার্ড যাচাই সংখ্যা,module,Magento_BraintreeTwo
+ending,শেষ,module,Magento_BraintreeTwo
+expires,মেয়াদ শেষ,module,Magento_BraintreeTwo
+Credit Card Information,ক্রেডিট কার্ড তথ্য,module,Magento_BraintreeTwo
+What is this?,এটা কি?,module,Magento_BraintreeTwo
+Save for later use.,পরে ব্যবহার করার জন্য সংরক্ষণ করুন।,module,Magento_BraintreeTwo
