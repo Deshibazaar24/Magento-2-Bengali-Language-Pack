@@ -3,9 +3,3 @@ None,না,module,Magento_AdminGws
 "Allowed Scopes","মঞ্জুরিপ্রাপ্ত সুযোগগুলি",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","আপনি আরও অনুমতির এই আইটেম (গুলি) মোছার প্রয়োজন হবে।:1%",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","আপনি আরও অনুমতির প্রয়োজন নিয়ম আপডেটের কিছু প্রযোজ্য হবে।",module,Magento_AdminGws
-Please assign this entity to a store view.	একটি দোকান দেখতে এই সত্তা ধার্য করুন।	module	Magento_AdminGws
-You can create orders only in an active store.	আপনি শুধুমাত্র একটি সক্রিয় দোকান আদেশ তৈরি করতে পারেন।	module	Magento_AdminGws
-Please assign this item to a store view.	একটি দোকান দৃশ্যে এই আইটেমটি ধার্য করুন।	module	Magento_AdminGws
-You need more permissions to save this item.	আপনি আরও অনুমতির প্রয়োজন এই আইটেমটি সংরক্ষণ করুন।	module	Magento_AdminGws
-You need more permissions to delete this item.	আপনি আরও অনুমতির প্রয়োজন এই আইটেমটি মুছে ফেলতে।	module	Magento_AdminGws
-You need more permissions to view this item.	আপনি এই আইটেমটি দেখতে আরও অনুমতির প্রয়োজন।	module	Magento_AdminGws
