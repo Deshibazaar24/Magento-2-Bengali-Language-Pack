@@ -44,14 +44,7 @@ major,মুখ্য,module,Magento_AdminNotification
 minor,গৌণ,module,Magento_AdminNotification
 notice,বিজ্ঞপ্তি,module,Magento_AdminNotification
 Wrong message type,ভুল বার্তা টাইপ,module,Magento_AdminNotification
-Wrong notification ID specified.,ভুল প্রজ্ঞাপন আইডি নির্দিষ্ট করা হয়েছে।,module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{Base_url}} একটি পরীক্ষামূলক পরিবেশে ব্যবহার করার জন্য বেজ অনিরাপদ URL- / বেজ নিরাপদ URL ঘোষণা করার সুপারিশ করা হয়। আমরা অত্যন্ত আপনার Magento মধ্যে এই মান পরিবর্তন সুপারিশ <a href=""%1""> কনফিগারেশন </a>।",module,Magento_AdminNotification
-One or more of the Cache Types are invalidated: %1.,এক বা একাধিক ক্যাশে প্রকারভেদ এর invalidated করা হয়:% 1।,module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","দয়া করে ক্যাশে ম্যানেজমেন্ট </a> href=""%1""> <a এবং ক্যাশ ধরনের রিফ্রেশ যান।",module,Magento_AdminNotification
-We were unable to synchronize one or more media files. Please refer to the log file for details.,আমরা এক বা একাধিক মিডিয়া ফাইল সুসংগত করতে পারিনি। বিস্তারিত জানার জন্য লগ ফাইল পড়ুন দয়া করে।,module,Magento_AdminNotification
-Synchronization of media storages has been completed.,মিডিয়া স্টোরেজ সিঙ্ক্রোনাইজেশন সম্পন্ন হয়েছে।,module,Magento_AdminNotification
-Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.,আপনার ওয়েব সার্ভারে ভুল সেট আপ করুন এবং সংবেদনশীল ফাইল অননুমোদিত অ্যাক্সেস দেয় হয়। আপনার হোস্টিং প্রদানকারীর সাথে যোগাযোগ করুন।,module,Magento_AdminNotification
-System Messages:,সিস্টেম বার্তা:,module,Magento_AdminNotification
+
 Critical System Messages,ক্রিটিক্যাল সিস্টেম বার্তা,module,Magento_AdminNotification
 Major System Messages,মেজর সিস্টেম বার্তা,module,Magento_AdminNotification
 System messages,সিস্টেম বার্তা,module,Magento_AdminNotification
@@ -303,84 +296,7 @@ Meta Information,মেটা তথ্য,module,Magento_AsynchronousOperations
 Error,এরর,module,Magento_AsynchronousOperations
 Dismiss All Completed Tasks,খারিজ সব সম্পন্ন কার্যগুলি,module,Magento_AsynchronousOperations
 Action Details - #,কর্মের বিবরণ - #,module,Magento_AsynchronousOperations
-Number of Records Affected,রেকর্ডস সংখ্যা প্রভাবিত,module,Magento_AsynchronousOperations
-We can't find the role for the user you wanted.,আমরা ব্যবহারকারী আপনি চেয়েছিলেন জন্য ভূমিকা খুঁজে পাচ্ছি না।,module,Magento_Authorization
-Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.,যখন অনুমতি সম্পদের একটি তালিকা কম্পাইল কিছু ভুল হয়েছে। আপনি আরও ব্যতিক্রম লগ ইন করুন জানতে পারবেন।,module,Magento_Authorization
-You created the order.,আপনি অর্ডার তৈরি করা হয়েছে।,module,Magento_Authorizenet
-Order saving error: %1,অর্ডার সংরক্ষণে ত্রুটি:% 1,module,Magento_Authorizenet
-Please choose a payment method.,দয়া করে একটি অর্থ প্রদানের পদ্ধতি চয়ন।,module,Magento_Authorizenet
-We can't process your order right now. Please try again later.,আমরা এই মুহূর্তে আপনার অর্ডার প্রক্রিয়া করতে পারবে না। অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন.,module,Magento_Authorizenet
-An error occurred on the server. Please try to place the order again.,সার্ভারে একটি ত্রুটি ঘটেছে। আবার অর্ডার দিতে চেষ্টা করুন।,module,Magento_Authorizenet
-Credit Card: xxxx-%1,ক্রেডিট কার্ড: xxxx-% 1,module,Magento_Authorizenet
-amount %1,পরিমাণ% 1,module,Magento_Authorizenet
-failed.,ব্যর্থ.,module,Magento_Authorizenet
-successful.,সফল।,module,Magento_Authorizenet
-Authorize.Net Transaction ID %1.,Authorize.Net লেনদেন নাম্বার% 1।,module,Magento_Authorizenet
-authorize,অনুমোদন করা,module,Magento_Authorizenet
-authorize and capture,অনুমোদন এবং ক্যাপচার,module,Magento_Authorizenet
-capture,গ্রেপ্তার,module,Magento_Authorizenet
-refund,প্রত্যর্পণ,module,Magento_Authorizenet
-void,অকার্যকর,module,Magento_Authorizenet
-Gateway error: %1,গেটওয়ে ত্রুটি:% 1,module,Magento_Authorizenet
-Something went wrong in the payment gateway.,কিছু পেমেন্ট গেটওয়ে ভুল হয়েছে।,module,Magento_Authorizenet
-Invalid amount for capture.,ক্যাপচার জন্য অবৈধ পরিমাণ।,module,Magento_Authorizenet
-Payment capturing error.,পেমেন্ট ক্যাপচারিং ত্রুটি।,module,Magento_Authorizenet
-Invalid transaction ID.,অবৈধ লেনদেনের আইডি।,module,Magento_Authorizenet
-Payment voiding error.,পেমেন্ট voiding ত্রুটি।,module,Magento_Authorizenet
-Invalid amount for refund.,প্রত্যর্পণ জন্য অবৈধ পরিমাণ।,module,Magento_Authorizenet
-Payment refunding error.,পেমেন্ট পরিশোধের ত্রুটি।,module,Magento_Authorizenet
-The transaction was declined because the response hash validation failed.,কারণ প্রতিক্রিয়া হ্যাশ বৈধতা ব্যর্থ লেনদেন প্রত্যাখ্যান করা হয়েছে।,module,Magento_Authorizenet
-This payment didn't work out because we can't find this order.,"এই অর্থ প্রদানের কাজ করা হয়নি, কারণ আমরা এই আদেশ খুঁজে পাচ্ছি না।",module,Magento_Authorizenet
-There was a payment authorization error.,একটি পেমেন্ট অনুমোদন ত্রুটি হয়েছে।,module,Magento_Authorizenet
-Please enter a transaction ID to authorize this payment.,এই অর্থ প্রদানের অনুমোদন দিতে একটি লেনদেন আইডি লিখুন দয়া করে।,module,Magento_Authorizenet
-Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.,কিছু ভুল হয়েছে: অর্থ প্রদান পরিমাণ অর্ডার পরিমাণ সাথে মিলছে না। দয়া করে এই সংশোধন করে আবার চেষ্টা করুন।,module,Magento_Authorizenet
-"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","লেনদেন% 1 অনুমোদিত হয়েছে। পরিমাণ% 2। লেনদেন স্থিতি ""% 3"" হয়",module,Magento_Authorizenet
-"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","লেনদেন% 1 অগ্রাহ্য করা হয়েছে / অস্বীকার করেছে। লেনদেন অবস্থা ""% 2"" হয়। পরিমাণ% 3।",module,Magento_Authorizenet
-Authorize Only,শুধু অনুমোদন,module,Magento_Authorizenet
-Authorize and Capture,অনুমোদন এবং ক্যাপচার,module,Magento_Authorizenet
-Unable to get transaction details. Try again later.,লেনদেনের বিবরণ পাওয়া যায়নি। পরে আবার চেষ্টা করুন।,module,Magento_Authorizenet
-Electronic payments save the trees.,ইলেকট্রনিক পেমেন্ট গাছ সংরক্ষণ করুন।,module,Magento_Authorizenet
-Credit Card Type,ক্রেডিট কার্ড প্রকার,module,Magento_Authorizenet
-Please Select,অনুগ্রহ করে নির্বাচন করুন,module,Magento_Authorizenet
-Credit Card Number,ক্রেডিট কার্ড নম্বর,module,Magento_Authorizenet
-Expiration Date,মেয়াদ উত্তীর্ণের তারিখ,module,Magento_Authorizenet
-Card Verification Number,কার্ড যাচাই সংখ্যা,module,Magento_Authorizenet
-Fraud Detection,জালিয়াতি সনাক্তকরণ,module,Magento_Authorizenet
-FDS Filter Action,FDS ফিল্টার অ্যাকশন,module,Magento_Authorizenet
-AVS Response,AVS রেসপন্স,module,Magento_Authorizenet
-Card Code Response,কার্ডের কোড রেসপন্স,module,Magento_Authorizenet
-CAVV Response,CAVV রেসপন্স,module,Magento_Authorizenet
-Fraud Filters,ফ্রড ফিল্টার,module,Magento_Authorizenet
-Place Order,প্লেস আদেশ,module,Magento_Authorizenet
-"Sorry, but something went wrong. Please contact the seller.","দুঃখিত, কিন্তু কিছু ভুল হয়েছে। বিক্রেতার সাথে যোগাযোগ করুন।",module,Magento_Authorizenet
-Authorize.net Direct Post,Authorize.net সরাসরি পোস্ট,module,Magento_Authorizenet
-Enabled,সক্ষম করা,module,Magento_Authorizenet
-Payment Action,পেমেন্ট অ্যাকশন,module,Magento_Authorizenet
-Title,খেতাব,module,Magento_Authorizenet
-API Login ID,এপিআই লগইন আইডি,module,Magento_Authorizenet
-Transaction Key,লেনদেন কী,module,Magento_Authorizenet
-Merchant MD5,মার্চেন্ট MD5,module,Magento_Authorizenet
-New Order Status,নিউ অর্ডার স্থিতি,module,Magento_Authorizenet
-Test Mode,পরীক্ষা মোড,module,Magento_Authorizenet
-Gateway URL,গেটওয়ে URL টি,module,Magento_Authorizenet
-Transaction Details URL,লেনদেনের বিশদ URL টি,module,Magento_Authorizenet
-Accepted Currency,গৃহীত মুদ্রা,module,Magento_Authorizenet
-Debug,ডেবাগ্ করা,module,Magento_Authorizenet
-Email Customer,ইমেইল গ্রাহক,module,Magento_Authorizenet
-Merchant's Email,মার্চেন্ট ইমেইল,module,Magento_Authorizenet
-Credit Card Types,ক্রেডিট কার্ড প্রকারভেদ,module,Magento_Authorizenet
-Credit Card Verification,ক্রেডিট কার্ড যাচাই,module,Magento_Authorizenet
-Payment from Applicable Countries,প্রযোজ্য দেশ থেকে পেমেন্ট,module,Magento_Authorizenet
-Payment from Specific Countries,নির্দিষ্ট কিছু দেশে থেকে পেমেন্ট,module,Magento_Authorizenet
-Minimum Order Total,নূন্যতম আদেশ মোট,module,Magento_Authorizenet
-Maximum Order Total,সর্বোচ্চ আদেশ মোট,module,Magento_Authorizenet
-Sort Order,সজ্জাক্রম,module,Magento_Authorizenet
-Invalid Form Key. Please refresh the page.,অবৈধ ফর্ম কী। পৃষ্ঠাটি রিফ্রেশ করুন।,module,Magento_Backend
-You entered an invalid Secret Key. Please refresh the page.,আপনি একটি অবৈধ গোপন কী প্রবেশ করে। পৃষ্ঠাটি রিফ্রেশ করুন।,module,Magento_Backend
-Cache Storage Management,ক্যাশে সংগ্রহস্থল পরিচালনা,module,Magento_Backend
-Flush Magento Cache,ফ্লাশ Magento ক্যাশে,module,Magento_Backend
-The cache storage may contain additional data. Are you sure that you want to flush it?,ক্যাশে স্টোরেজ অতিরিক্ত ডেটা থাকতে পারে। আপনি কি নিশ্চিত যে আপনি এটা ফ্লাশ করার ব্যাপারে নিশ্চিত?,module,Magento_Backend
-Flush Cache Storage,ফ্লাশ ক্যাশে সংগ্রহস্থল,module,Magento_Backend
+
 Invalidated,অকার্যকর ও বাতিল,module,Magento_Backend
 Orders,অর্ডার,module,Magento_Backend
 Amounts,রাশি,module,Magento_Backend
@@ -812,97 +728,7 @@ Validate HTTP_VIA,যাচাই HTTP_VIA,module,Magento_Backend
 Validate HTTP_X_FORWARDED_FOR,যাচাই HTTP_X_FORWARDED_FOR,module,Magento_Backend
 Validate HTTP_USER_AGENT,যাচাই HTTP_USER_AGENT,module,Magento_Backend
 Use SID on Storefront,দোকানে ঢোকার উপর জন্য SID ব্যবহার করুন,module,Magento_Backend
-Allows customers to stay logged in when switching between different stores.,মঞ্জুর করে গ্রাহকদের যখন বিভিন্ন দোকানে মধ্যে স্যুইচ লগ ইন থাকার।,module,Magento_Backend
-Cache Type,ক্যাশে প্রকার,module,Magento_Backend
-Description,বিবরণ,module,Magento_Backend
-Tags,ট্যাগ,module,Magento_Backend
-"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<H1 বর্গ = ""পৃষ্ঠা-শিরোনাম""> 404 ত্রুটি </ h1> থেকে <p> যে পৃষ্ঠাটি পাওয়া যায় নি। </ P &>",module,Magento_Backend
-Community Edition,কমিউনিটি এডিশন,module,Magento_Backend
-Default Theme,ডিফল্ট থিম,module,Magento_Backend
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.","কোনো মূল্যই উল্লেখিত থাকে, সিস্টেম ডিফল্ট ব্যবহার করা হয়। সিস্টেম ডিফল্ট তৃতীয় পক্ষের এক্সটেনশন দ্বারা পরিবর্তিত হতে পারে।",module,Magento_Backend
-Applied Theme,ফলিত থিম,module,Magento_Backend
-Design Rule,ডিজাইন রুল,module,Magento_Backend
-User Agent Rules,ব্যবহারকারী এজেন্ট বিধি,module,Magento_Backend
-Pagination,পত্রাঙ্কন,module,Magento_Backend
-How many links to display at once.,কিভাবে লিঙ্ক একযোগে প্রদর্শন করে।,module,Magento_Backend
-Pagination Frame,পত্রাঙ্কন ফ্রেম,module,Magento_Backend
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","বর্তমান ফ্রেম অবস্থান পরম পৃষ্ঠাগুলি কাভার করে না, এটা বর্তমান অবস্থান প্লাস / মাইনাস এই মান লিংক রেন্ডার করে।",module,Magento_Backend
-Pagination Frame Skip,পত্রাঙ্কন ফ্রেম তে,module,Magento_Backend
-"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","পূর্ববর্তী পৃষ্ঠাগুলির জন্য বিকল্প টেক্সট পত্রাঙ্কন মেনুতে লিঙ্ক। খালি, ডিফল্ট তীর ইমেজ ব্যবহার করা হয়।",module,Magento_Backend
-Anchor Text for Previous,পূর্ববর্তী জন্য অ্যাঙ্কর শিরোনাম,module,Magento_Backend
-"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","পরবর্তী পৃষ্ঠাগুলির জন্য বিকল্প টেক্সট পত্রাঙ্কন মেনুতে লিঙ্ক। খালি, ডিফল্ট তীর ইমেজ ব্যবহার করা হয়।",module,Magento_Backend
-Anchor Text for Next,পরবর্তী জন্য অ্যাঙ্কর শিরোনাম,module,Magento_Backend
-Theme Name,থিমের নাম,module,Magento_Backend
-System Backup,সিস্টেম ব্যাকআপ,module,Magento_Backup
-Database and Media Backup,ডাটাবেজ এবং মিডিয়া ব্যাকআপ,module,Magento_Backup
-Database Backup,ডাটাবেজ ব্যাকআপ,module,Magento_Backup
-"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","সংরক্ষণাগার উইন্ডোজ সিস্টেমে <a href=""%1"">% 2 </a> এর সাথে ডিকম্প্রেস করা হতে পারে।",module,Magento_Backup
-You need more permissions to activate maintenance mode right now.,আপনি আরও অনুমতির প্রয়োজন এখন রক্ষণাবেক্ষণ সক্রিয় করতে।,module,Magento_Backup
-"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","ব্যাকআপ তৈরি করতে হলে, নির্বাচন থেকে সরিয়ে ফেলুন দয়া করে ""রক্ষণাবেক্ষণ মোডে দোকান রাখুন"" বা আপনার অনুমতি আপডেট করুন।",module,Magento_Backup
-Something went wrong while putting your store into maintenance mode.,যখন রক্ষণাবেক্ষণ মোডে আপনার দোকান নির্বাণ কিছু ভুল হয়েছে।,module,Magento_Backup
-You need more free space to create a backup.,আপনাকে একটি ব্যাকআপ তৈরি করতে আরো মুক্ত স্থান প্রয়োজন।,module,Magento_Backup
-You need more permissions to create a backup.,আপনাকে একটি ব্যাকআপ তৈরি করতে আরও অনুমতির প্রয়োজন।,module,Magento_Backup
-We can't create the backup right now.,আমরা ব্যাকআপ ডান এখন তৈরি করতে পারবেন না।,module,Magento_Backup
-Backups,ব্যাকআপ,module,Magento_Backup
-System,পদ্ধতি,module,Magento_Backup
-Tools,সরঞ্জামসমূহ,module,Magento_Backup
-Backup,ব্যাকআপ,module,Magento_Backup
-We can't delete one or more backups.,আমরা এক বা একাধিক ব্যাকআপ মুছতে পারবেন না।,module,Magento_Backup
-failed,ব্যর্থ,module,Magento_Backup
-successful,সফল,module,Magento_Backup
-You deleted the selected backup(s).,আপনার কাছে নির্বাচিত ব্যাকআপ (গুলি) মোছা হয়েছে।,module,Magento_Backup
-Can't load snapshot archive,স্ন্যাপশট সংরক্ষণাগার লোড করা যাবে না,module,Magento_Backup
-Please correct the password.,পাসওয়ার্ড সংশোধন করুন।,module,Magento_Backup
-"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","রোলব্যাক সম্পূর্ণ করার জন্য, নির্বাচন থেকে সরিয়ে ফেলুন দয়া করে ""রক্ষণাবেক্ষণ মোডে দোকান রাখুন"" বা আপনার অনুমতি আপডেট করুন।",module,Magento_Backup
-We can't find the backup file.,আমরা ব্যাকআপ ফাইল খুঁজে পাচ্ছি না।,module,Magento_Backup
-We can't connect to the FTP right now.,আমরা এই মুহূর্তে এফটিপি সংযোগ করতে পারবেন না।,module,Magento_Backup
-Failed to validate FTP.,FTP- র যাচাই করতে ব্যর্থ হয়েছে।,module,Magento_Backup
-You need more permissions to perform a rollback.,আপনি আরও অনুমতির প্রয়োজন রোলব্যাক সঞ্চালন।,module,Magento_Backup
-Failed to rollback.,রোলব্যাক করতে ব্যর্থ হয়েছে।,module,Magento_Backup
-Database,ডেটাবেস,module,Magento_Backup
-Database and Media,ডাটাবেজ এবং মিডিয়া,module,Magento_Backup
-System (excluding Media),সিস্টেম (ব্যতীত মিডিয়া),module,Magento_Backup
-You created the system backup.,সিস্টেম ব্যাকআপ তৈরি করা হয়েছে।,module,Magento_Backup
-You created the system backup (excluding media).,সিস্টেম ব্যাকআপ (ব্যতীত মিডিয়া) তৈরি করা হয়েছে।,module,Magento_Backup
-You created the database and media backup.,আপনি ডাটাবেস এবং মিডিয়া ব্যাকআপ তৈরি করা হয়েছে।,module,Magento_Backup
-You created the database backup.,আপনি ডাটাবেস ব্যাকআপ তৈরি করা হয়েছে।,module,Magento_Backup
-Please correct the order of creation for a new backup.,একটি নতুন ব্যাকআপ জন্য সৃষ্টি ক্রম সংশোধন করুন।,module,Magento_Backup
-The backup file does not exist.,ব্যাকআপ ফাইল বিদ্যমান নেই।,module,Magento_Backup
-The backup file path was not specified.,ব্যাকআপ ফাইল পাথ উল্লেখ করা হয়নি।,module,Magento_Backup
-"The backup file ""%1"" does not exist.","ব্যাকআপ ফাইল ""% 1"" বিদ্যমান নেই।",module,Magento_Backup
-"Sorry, but we cannot read from or write to backup file ""%1"".","দুঃখিত, কিন্তু আমরা থেকে পড়া বা ব্যাকআপ ফাইল ""% 1"" লিখতে পারে না।",module,Magento_Backup
-The backup file handler was unspecified.,ব্যাকআপ ফাইল হ্যান্ডলার অনির্দিষ্ট ছিল।,module,Magento_Backup
-"Something went wrong while writing to the backup file ""%1"".","যখন ব্যাকআপ ফাইল ""% 1"" লেখা কিছু ভুল হয়েছে।",module,Magento_Backup
-We can't save the Cron expression.,আমরা ক্রন অভিব্যক্তি সংরক্ষণ করতে পারবেন না।,module,Magento_Backup
-"You will lose any data created since the backup was made, including admin users, customers and orders.","আপনার তৈরি করা থেকে ব্যাকআপ তৈরি করা হয়েছিল অ্যাডমিন ব্যবহারকারী, গ্রাহক এবং আদেশ সহ যেকোন ডেটা নষ্ট হয়ে যাবে।",module,Magento_Backup
-Are you sure you want to continue?,আপনি কি চালিয়ে যেতে চান?,module,Magento_Backup
-This may take a few moments.,এটি কয়েক মিনিট সময় লাগতে পারে.,module,Magento_Backup
-Be sure your store is in maintenance mode during backup.,নিশ্চিত করুন যে আপনার দোকান ব্যাকআপ সময় রক্ষণাবেক্ষণ মোডে রয়েছে হতে।,module,Magento_Backup
-Backup Name,ব্যাকআপ নাম,module,Magento_Backup
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","এই ক্ষেত্রে কেবলমাত্র অক্ষর (az বা জেড), সংখ্যা (0-9) অথবা শূণ্যস্থান ব্যবহার করুন।",module,Magento_Backup
-Maintenance mode,রক্ষণাবেক্ষণ মোডে,module,Magento_Backup
-Please put your store into maintenance mode during backup.,দয়া করে ব্যাকআপ সময় রক্ষণাবেক্ষণ মোডে আপনার দোকান দিলেন।,module,Magento_Backup
-Exclude,বর্জন করা,module,Magento_Backup
-Exclude media folder from backup,ব্যাকআপ থেকে মিডিয়া ফোল্ডারের বাদ দিন,module,Magento_Backup
-Please enter the password to confirm rollback.,রোলব্যাক নিশ্চিত করতে পাসওয়ার্ড দিন।,module,Magento_Backup
-This action cannot be undone.,এই ক্রিয়াটি পূর্বাবস্থায় ফেরানো যাবে না.,module,Magento_Backup
-User Password,ব্যবহারকারী পাসওয়ার্ড,module,Magento_Backup
-Please put your store into maintenance mode during rollback processing.,দয়া করে রোলব্যাক প্রক্রিয়াকরণের সময় রক্ষণাবেক্ষণ মোডে আপনার দোকান দিলেন।,module,Magento_Backup
-FTP,FTP- র,module,Magento_Backup
-Use FTP Connection,ব্যবহারের FTP কানেকশন,module,Magento_Backup
-FTP credentials,FTP- র পরিচয়পত্র,module,Magento_Backup
-FTP Host,FTP হোস্টে,module,Magento_Backup
-FTP Login,FTP- র লগইন,module,Magento_Backup
-FTP Password,FTP- র পাসওয়ার্ড,module,Magento_Backup
-Magento root directory,Magento রুট ডিরেক্টরি,module,Magento_Backup
-Create Backup,ব্যাকআপ তৈরি,module,Magento_Backup
-Rollback,রোলব্যাক,module,Magento_Backup
-Scheduled Backup Settings,তফশিলি ব্যাকআপ সেটিংস,module,Magento_Backup
-Enable Scheduled Backup,নির্ধারিত ব্যাকআপ সক্ষম করুন,module,Magento_Backup
-Backup Type,ব্যাকআপ প্রকার,module,Magento_Backup
-Start Time,সময় শুরু,module,Magento_Backup
-Frequency,ফ্রিকোয়েন্সি,module,Magento_Backup
-Maintenance Mode,রক্ষণাবেক্ষণ মোড,module,Magento_Backup
+
 Delete,মুছে ফেলা,module,Magento_Backup
 Are you sure you want to delete the selected backup(s)?,আপনি কি নির্বাচিত ব্যাকআপ (গুলি) মুছে দেওয়ার বিষয়ে নিশ্চিত?,module,Magento_Backup
 Time,সময়,module,Magento_Backup
@@ -1049,51 +875,7 @@ Payment from Specific Countries,নির্দিষ্ট কিছু দে�
 Country Specific Credit Card Types,দেশের নির্দিষ্ট ক্রেডিট কার্ড প্রকারভেদ,module,Magento_Braintree
 PayPal through Braintree,ব্রেংট্রী মাধ্যমে পেপ্যাল,module,Magento_Braintree
 Override Merchant Name,ওভাররাইড ব্যবসায়ীর নাম,module,Magento_Braintree
-Require Customer's Billing Address,গ্রাহকের বিলিং ঠিকানা দরকার,module,Magento_Braintree
-Allow to Edit Shipping Address Entered During Checkout on PayPal Side,শিপিং ঠিকানা পেপ্যাল ​​সাইড উপর চেকআউট সময় প্রবেশ করেছেন সম্পাদনা করার অনুমতি দিন,module,Magento_Braintree
-Display on Shopping Cart,শপিং কার্ট দেখান,module,Magento_Braintree
-Skip Order Review,কর অর্ডার পর্যালোচনা,module,Magento_Braintree
-3D Secure Verification Settings,3D যাচাইকরণের সেটিংসে নিরাপদ,module,Magento_Braintree
-3D Secure Verification,3D সিকিউর যাচাইকরণ,module,Magento_Braintree
-Threshold Amount,বিক্রেতার পরিমাণ,module,Magento_Braintree
-Verify for Applicable Countries,প্রযোজ্য দেশ যাচাই,module,Magento_Braintree
-Verify for Specific Countries,নির্দিষ্ট কিছু দেশে যাচাই,module,Magento_Braintree
-Dynamic Descriptors,ডায়নামিক বর্ণনাকারী,module,Magento_Braintree
-Name,নাম,module,Magento_Braintree
-Phone,ফোন,module,Magento_Braintree
-URL,URL টি,module,Magento_Braintree
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","ক্রমে ফলাফলগুলি পেতে ফিল্টার প্রয়োগ করুন। শুধু প্রথম 100 রেকর্ড গ্রিড প্রদর্শিত হবে, আপনি .csv বিন্যাসে রিপোর্টের পূর্ণ সংস্করণ ডাউনলোড করতে সক্ষম হবে।",module,Magento_Braintree
-Select...,নির্বাচন করুন ...,module,Magento_Braintree
-Status,অবস্থা,module,Magento_Braintree
-Transaction Type,লেনদেন প্রকার,module,Magento_Braintree
-Payment Type,শোধের ধরণ,module,Magento_Braintree
-PayPal Payment ID,পেপ্যাল ​​আইডি,module,Magento_Braintree
-Created At,এ নির্মিত,module,Magento_Braintree
-Transaction ID,লেনদেন নাম্বার,module,Magento_Braintree
-Order ID,অর্ডার ID,module,Magento_Braintree
-Type,আদর্শ,module,Magento_Braintree
-Amount,পরিমাণ,module,Magento_Braintree
-Settlement Code,সেটেলমেন্ট কোড,module,Magento_Braintree
-Settlement Response Text,সেটেলমেন্ট রেসপন্স টেক্সট,module,Magento_Braintree
-Refund Ids,রিফান্ড Id গুলি,module,Magento_Braintree
-Settlement Batch ID,সেটেলমেন্ট ব্যাচ আইডি,module,Magento_Braintree
-Currency,মুদ্রা,module,Magento_Braintree
-Country,দেশ,module,Magento_BraintreeTwo
-Allowed Credit Card Types,মঞ্জুরিপ্রাপ্ত ক্রেডিট কার্ড প্রকারভেদ,module,Magento_BraintreeTwo
-Add Rule,বিধি যুক্ত করুন,module,Magento_BraintreeTwo
-Braintree Settlement Report,ব্রেংট্রী সেটেলমেন্ট প্রতিবেদন,module,Magento_BraintreeTwo
-"Sorry, but something went wrong","দুঃখিত, কিন্তু কিছু ভুল হয়েছে",module,Magento_BraintreeTwo
-We can\'t initialize checkout.,আমরা \ 'টি চেকআউট আরম্ভ করতে পারেন।,module,Magento_BraintreeTwo
-No authorization transaction to proceed capture.,কোন অনুমোদন লেনদেন ক্যাপচার এগিয়ে যেতে।,module,Magento_BraintreeTwo
-Braintree error response.,ব্রেংট্রী ত্রুটি প্রতিক্রিয়া।,module,Magento_BraintreeTwo
-Payment method nonce can\'t be retrieved.,অর্থ প্রদানের পদ্ধতি আপাতত \ পারবে টন প্রাপ্ত করা।,module,Magento_BraintreeTwo
-Wrong transaction status,ভুল লেনদেনের অবস্থা,module,Magento_BraintreeTwo
-Authorize,অনুমোদন করা,module,Magento_BraintreeTwo
-Authorize and Capture,অনুমোদন এবং ক্যাপচার,module,Magento_BraintreeTwo
---Please Select--,--অনুগ্রহ করে নির্বাচন করুন--,module,Magento_BraintreeTwo
-Please agree to all the terms and conditions before placing the order.,অর্ডার স্থাপন করার আগে সমস্ত শর্তাবলী সাথে সম্মত হন করুন।,module,Magento_BraintreeTwo
-Paypal account,PayPal অ্যাকাউন্ট,module,Magento_BraintreeTwo
-Coinbase account,কয়েনবেস একাউন্ট,module,Magento_BraintreeTwo
+
 Europe bank account,ইউরোপ ব্যাঙ্ক অ্যাকাউন্ট,module,Magento_BraintreeTwo
 Credit card,ক্রেডিট কার্ড,module,Magento_BraintreeTwo
 Apple pay card,অ্যাপল বেতন কার্ড,module,Magento_BraintreeTwo
